@@ -1,0 +1,80 @@
+
+
+.MainCards {
+    display: flex;
+    justify-content: space-around;
+    gap: 20px; 
+    margin: 1%;
+
+  }
+  .DoctorDash{
+    margin: 100px;
+  }
+  .card {
+    /* background: linear-gradient(#f6f167, rgba(253, 159, 135, 0.903), rgba(16, 213, 36, 0.757)); */
+    border: 1px solid #babbba;
+    border-radius: 52px;
+    box-shadow: 0px 2px 4px 5px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    text-align: center;
+    width: 250px;
+    transition: transform 0.2s;
+    cursor: pointer;
+    flex-basis: calc(50% - 20px); 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+  }
+  .heading{
+    text-align: center;
+  }
+  
+  .card:hover {
+    transform: scale(1.05);
+  }
+  
+  .card h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .card p {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333333;
+  }
+  #datapre{
+    width: 10vh;
+  }
+  #report{
+    width: 7vh;
+  
+  }
+  #testing{
+    width: 14vh;
+  
+  }
+  #training{
+    width: 9vh;
+  
+  }
+  
+  
+  /* Loading spinner animation */
+  @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+  
+  .loading-spinner {
+    border: 2px solid rgba(0, 0, 0, 0.889);
+    border-top: 1px solid #f4f6ee;
+    border-radius: 50%;
+    width: 32px;
+    height: 32px;
+    animation: spin 2s linear infinite;
+    margin: 0 auto;
+  }
+  

@@ -1,0 +1,12 @@
+.main_login {
+    background-image: url('../../asset/cover_pic_login.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 700px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.8);
+    border-radius: 5px;
+    filter: brightness(120%);
+    position: relative;
+    filter: opacity(10px);
+  }
