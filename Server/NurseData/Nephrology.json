@@ -1,0 +1,304 @@
+{
+  "users": [
+    {
+      "name": "Ayesha Mahmood",
+      "email": "ayesha.mahmood@gmail.com",
+      "password": "password",
+      "ph": "321901234567",
+      "dob": "1990-05-10",
+      "gender": "Female",
+      "address": {
+        "state": "Punjab",
+        "city": "Lahore"
+      },
+      "employeeId": "NephroNurse001",
+      "role": "Nurse",
+      "department": "Nephrology"
+    },
+    {
+      "name": "Usman Ali",
+      "email": "usman.ali@gmail.com",
+      "password": "password",
+      "ph": "321911234567",
+      "dob": "1988-09-15",
+      "gender": "Male",
+      "address": {
+        "state": "Sindh",
+        "city": "Karachi"
+      },
+      "employeeId": "NephroNurse002",
+      "role": "Nurse",
+      "department": "Nephrology"
+    },
+    {
+      "name": "Zainab Khan",
+      "email": "zainab.khan@gmail.com",
+      "password": "password",
+      "ph": "321921234567",
+      "dob": "1992-02-20",
+      "gender": "Female",
+      "address": {
+        "state": "Khyber Pakhtunkhwa",
+        "city": "Peshawar"
+      },
+      "employeeId": "NephroNurse003",
+      "role": "Nurse",
+      "department": "Nephrology"
+    },
+    {
+      "name": "Aliya Hassan",
+      "email": "aliya.hassan@gmail.com",
+      "password": "password",
+      "ph": "321931234567",
+      "dob": "1985-11-28",
+      "gender": "Female",
+      "address": {
+        "state": "Balochistan",
+        "city": "Quetta"
+      },
+      "employeeId": "NephroNurse004",
+      "role": "Nurse",
+      "department": "Nephrology"
+    },
+    {
+      "name": "Faisal Khan",
+      "email": "faisal.khan@gmail.com",
+      "password": "password",
+      "ph": "321941234567",
+      "dob": "1991-06-03",
+      "gender": "Male",
+      "address": {
+        "state": "Gilgit-Baltistan",
+        "city": "Gilgit"
+      },
+      "employeeId": "NephroNurse005",
+      "role": "Nurse",
+      "department": "Nephrology"
+    },
+    {
+      "name": "Sara Ahmed",
+      "email": "sara.ahmed@gmail.com",
+      "password": "password",
+      "ph": "321951234567",
+      "dob": "1987-08-14",
+      "gender": "Female",
+      "address": {
+        "state": "Azad Kashmir",
+        "city": "Muzaffarabad"
+      },
+      "employeeId": "NephroNurse006",
+      "role": "Nurse",
+      "department": "Nephrology"
+    },
+    {
+      "name": "Ahmed Raza",
+      "email": "ahmed.raza@gmail.com",
+      "password": "password",
+      "ph": "321961234567",
+      "dob": "1993-03-22",
+      "gender": "Male",
+      "address": {
+        "state": "Punjab",
+        "city": "Rawalpindi"
+      },
+      "employeeId": "NephroNurse007",
+      "role": "Nurse",
+      "department": "Nephrology"
+    },
+    {
+      "name": "Maria Khan",
+      "email": "maria.khan@gmail.com",
+      "password": "password",
+      "ph": "321971234567",
+      "dob": "1989-10-05",
+      "gender": "Female",
+      "address": {
+        "state": "Sindh",
+        "city": "Hyderabad"
+      },
+      "employeeId": "NephroNurse008",
+      "role": "Nurse",
+      "department": "Nephrology"
+    },
+    {
+      "name": "Bilal Malik",
+      "email": "bilal.malik@gmail.com",
+      "password": "password",
+      "ph": "321981234567",
+      "dob": "1990-12-18",
+      "gender": "Male",
+      "address": {
+        "state": "Khyber Pakhtunkhwa",
+        "city": "Abbottabad"
+      },
+      "employeeId": "NephroNurse009",
+      "role": "Nurse",
+      "department": "Nephrology"
+    },
+    {
+      "name": "Hira Ahmed",
+      "email": "hira.ahmed@gmail.com",
+      "password": "password",
+      "ph": "321991234567",
+      "dob": "1986-07-29",
+      "gender": "Female",
+      "address": {
+        "state": "Balochistan",
+        "city": "Gwadar"
+      },
+      "employeeId": "NephroNurse010",
+      "role": "Nurse",
+      "department": "Nephrology"
+    },
+    {
+      "name": "Kamran Khan",
+      "email": "kamran.khan@gmail.com",
+      "password": "password",
+      "ph": "322001234567",
+      "dob": "1988-04-11",
+      "gender": "Male",
+      "address": {
+        "state": "Punjab",
+        "city": "Faisalabad"
+      },
+      "employeeId": "NephroNurse011",
+      "role": "Nurse",
+      "department": "Nephrology"
+    },
+    {
+      "name": "Sana Malik",
+      "email": "sana.malik@gmail.com",
+      "password": "password",
+      "ph": "322011234567",
+      "dob": "1987-11-25",
+      "gender": "Female",
+      "address": {
+        "state": "Sindh",
+        "city": "Sukkur"
+      },
+      "employeeId": "NephroNurse012",
+      "role": "Nurse",
+      "department": "Nephrology"
+    },
+    {
+      "name": "Farhan Ahmed",
+      "email": "farhan.ahmed@gmail.com",
+      "password": "password",
+      "ph": "322021234567",
+      "dob": "1992-02-03",
+      "gender": "Male",
+      "address": {
+        "state": "Khyber Pakhtunkhwa",
+        "city": "Nowshera"
+      },
+      "employeeId": "NephroNurse013",
+      "role": "Nurse",
+      "department": "Nephrology"
+    },
+    {
+      "name": "Hina Khan",
+      "email": "hina.khan@gmail.com",
+      "password": "password",
+      "ph": "322031234567",
+      "dob": "1989-09-18",
+      "gender": "Female",
+      "address": {
+        "state": "Punjab",
+        "city": "Multan"
+      },
+      "employeeId": "NephroNurse014",
+      "role": "Nurse",
+      "department": "Nephrology"
+    },
+    {
+      "name": "Noman Ali",
+      "email": "noman.ali@gmail.com",
+      "password": "password",
+      "ph": "322041234567",
+      "dob": "1986-12-08",
+      "gender": "Male",
+      "address": {
+        "state": "Sindh",
+        "city": "Larkana"
+      },
+      "employeeId": "NephroNurse015",
+      "role": "Nurse",
+      "department": "Nephrology"
+    },
+    {
+      "name": "Sadia Ahmed",
+      "email": "sadia.ahmed@gmail.com",
+      "password": "password",
+      "ph": "322051234567",
+      "dob": "1991-02-03",
+      "gender": "Female",
+      "address": {
+        "state": "Balochistan",
+        "city": "Khuzdar"
+      },
+      "employeeId": "NephroNurse016",
+      "role": "Nurse",
+      "department": "Nephrology"
+    },
+    {
+      "name": "Adnan Raza",
+      "email": "adnan.raza@gmail.com",
+      "password": "password",
+      "ph": "322061234567",
+      "dob": "1988-06-21",
+      "gender": "Male",
+      "address": {
+        "state": "Punjab",
+        "city": "Gujranwala"
+      },
+      "employeeId": "NephroNurse017",
+      "role": "Nurse",
+      "department": "Nephrology"
+    },
+    {
+      "name": "Saba Khan",
+      "email": "saba.khan@gmail.com",
+      "password": "password",
+      "ph": "322071234567",
+      "dob": "1990-11-14",
+      "gender": "Female",
+      "address": {
+        "state": "Khyber Pakhtunkhwa",
+        "city": "Mardan"
+      },
+      "employeeId": "NephroNurse018",
+      "role": "Nurse",
+      "department": "Nephrology"
+    },
+    {
+      "name": "Ahsan Ali",
+      "email": "ahsan.ali@gmail.com",
+      "password": "password",
+      "ph": "322081234567",
+      "dob": "1987-04-09",
+      "gender": "Male",
+      "address": {
+        "state": "Punjab",
+        "city": "Sialkot"
+      },
+      "employeeId": "NephroNurse019",
+      "role": "Nurse",
+      "department": "Nephrology"
+    },
+    {
+      "name": "Fariha Malik",
+      "email": "fariha.malik@gmail.com",
+      "password": "password",
+      "ph": "322091234567",
+      "dob": "1989-08-17",
+      "gender": "Female",
+      "address": {
+        "state": "Sindh",
+        "city": "Mirpur Khas"
+      },
+      "employeeId": "NephroNurse020",
+      "role": "Nurse",
+      "department": "Nephrology"
+    }
+  ]
+}

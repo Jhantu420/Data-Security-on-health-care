@@ -1,0 +1,304 @@
+{
+  "users": [
+    {
+      "name": "Dr. Suresh Thapa",
+      "email": "suresh.thapa@gmail.com",
+      "password": "password",
+      "ph": "9845123652",
+      "dob": "1978-07-21",
+      "gender": "Male",
+      "address": {
+        "state": "Bagmati",
+        "city": "Kathmandu"
+      },
+      "registration": "NPD20010001",
+      "role": "Doctor",
+      "department": "Ophthalmology"
+    },
+    {
+      "name": "Dr. Priya Sharma",
+      "email": "priya.sharma@gmail.com",
+      "password": "password",
+      "ph": "9856321478",
+      "dob": "1985-05-12",
+      "gender": "Female",
+      "address": {
+        "state": "Gandaki",
+        "city": "Pokhara"
+      },
+      "registration": "NPD20010002",
+      "role": "Doctor",
+      "department": "Ophthalmology"
+    },
+    {
+      "name": "Dr. Rajesh Khatri",
+      "email": "rajesh.khatri@gmail.com",
+      "password": "password",
+      "ph": "9814752369",
+      "dob": "1982-11-30",
+      "gender": "Male",
+      "address": {
+        "state": "Lumbini",
+        "city": "Bhairahawa"
+      },
+      "registration": "NPD20010003",
+      "role": "Doctor",
+      "department": "Ophthalmology"
+    },
+    {
+      "name": "Dr. Anjali Bhandari",
+      "email": "anjali.bhandari@gmail.com",
+      "password": "password",
+      "ph": "9863258741",
+      "dob": "1987-04-05",
+      "gender": "Female",
+      "address": {
+        "state": "Sudurpashchim",
+        "city": "Dhangadhi"
+      },
+      "registration": "NPD20010004",
+      "role": "Doctor",
+      "department": "Ophthalmology"
+    },
+    {
+      "name": "Dr. Ramesh Gurung",
+      "email": "ramesh.gurung@gmail.com",
+      "password": "password",
+      "ph": "9846321754",
+      "dob": "1979-09-17",
+      "gender": "Male",
+      "address": {
+        "state": "Karnali",
+        "city": "Surkhet"
+      },
+      "registration": "NPD20010005",
+      "role": "Doctor",
+      "department": "Ophthalmology"
+    },
+    {
+      "name": "Dr. Nisha Thapa Magar",
+      "email": "nisha.thapa.magar@gmail.com",
+      "password": "password",
+      "ph": "9812365478",
+      "dob": "1984-03-28",
+      "gender": "Female",
+      "address": {
+        "state": "Province No. 1",
+        "city": "Biratnagar"
+      },
+      "registration": "NPD20010006",
+      "role": "Doctor",
+      "department": "Ophthalmology"
+    },
+    {
+      "name": "Dr. Dipesh Shahi",
+      "email": "dipesh.shahi@gmail.com",
+      "password": "password",
+      "ph": "9865987412",
+      "dob": "1986-12-10",
+      "gender": "Male",
+      "address": {
+        "state": "Kosi",
+        "city": "Itahari"
+      },
+      "registration": "NPD20010007",
+      "role": "Doctor",
+      "department": "Ophthalmology"
+    },
+    {
+      "name": "Dr. Alisha Koirala",
+      "email": "alisha.koirala@gmail.com",
+      "password": "password",
+      "ph": "9845741236",
+      "dob": "1983-08-15",
+      "gender": "Female",
+      "address": {
+        "state": "Sagarmatha",
+        "city": "Dharan"
+      },
+      "registration": "NPD20010008",
+      "role": "Doctor",
+      "department": "Ophthalmology"
+    },
+    {
+      "name": "Dr. Bikash Lama",
+      "email": "bikash.lama@gmail.com",
+      "password": "password",
+      "ph": "9812365987",
+      "dob": "1977-06-25",
+      "gender": "Male",
+      "address": {
+        "state": "Janakpur",
+        "city": "Janakpur"
+      },
+      "registration": "NPD20010009",
+      "role": "Doctor",
+      "department": "Ophthalmology"
+    },
+    {
+      "name": "Dr. Manisha Rana",
+      "email": "manisha.rana@gmail.com",
+      "password": "password",
+      "ph": "9854712369",
+      "dob": "1980-10-08",
+      "gender": "Female",
+      "address": {
+        "state": "Seti",
+        "city": "Dhangadhi"
+      },
+      "registration": "NPD20010010",
+      "role": "Doctor",
+      "department": "Ophthalmology"
+    },
+    {
+      "name": "Dr. Ashok Thapa",
+      "email": "ashok.thapa1@gmail.com",
+      "password": "password",
+      "ph": "9812345678",
+      "dob": "1980-05-17",
+      "gender": "Male",
+      "address": {
+        "state": "Gandaki",
+        "city": "Lamjung"
+      },
+      "registration": "NPD20010021",
+      "role": "Doctor",
+      "department": "Ophthalmology"
+    },
+    {
+      "name": "Dr. Sita Maharjan",
+      "email": "sita.maharjan1@gmail.com",
+      "password": "password",
+      "ph": "9841234567",
+      "dob": "1986-02-28",
+      "gender": "Female",
+      "address": {
+        "state": "Bagmati",
+        "city": "Bhaktapur"
+      },
+      "registration": "NPD20010022",
+      "role": "Doctor",
+      "department": "Ophthalmology"
+    },
+    {
+      "name": "Dr. Prakash Bhattarai",
+      "email": "prakash.bhattarai1@gmail.com",
+      "password": "password",
+      "ph": "9818765432",
+      "dob": "1975-11-10",
+      "gender": "Male",
+      "address": {
+        "state": "Province No. 3",
+        "city": "Dhulikhel"
+      },
+      "registration": "NPD20010023",
+      "role": "Doctor",
+      "department": "Ophthalmology"
+    },
+    {
+      "name": "Dr. Rekha Adhikari",
+      "email": "rekha.adhikari1@gmail.com",
+      "password": "password",
+      "ph": "9809876543",
+      "dob": "1982-08-15",
+      "gender": "Female",
+      "address": {
+        "state": "Gandaki",
+        "city": "Gorkha"
+      },
+      "registration": "NPD20010024",
+      "role": "Doctor",
+      "department": "Ophthalmology"
+    },
+    {
+      "name": "Dr. Narayan Thapa",
+      "email": "narayan.thapa1@gmail.com",
+      "password": "password",
+      "ph": "9858765432",
+      "dob": "1979-04-22",
+      "gender": "Male",
+      "address": {
+        "state": "Karnali",
+        "city": "Dolpa"
+      },
+      "registration": "NPD20010025",
+      "role": "Doctor",
+      "department": "Ophthalmology"
+    },
+    {
+      "name": "Dr. Anju Shrestha",
+      "email": "anju.shrestha1@gmail.com",
+      "password": "password",
+      "ph": "9812346235",
+      "dob": "1984-10-07",
+      "gender": "Female",
+      "address": {
+        "state": "Bagmati",
+        "city": "Lalitpur"
+      },
+      "registration": "NPD20010026",
+      "role": "Doctor",
+      "department": "Ophthalmology"
+    },
+    {
+      "name": "Dr. Pramod Karki",
+      "email": "pramod.karki1@gmail.com",
+      "password": "password",
+      "ph": "9849876543",
+      "dob": "1977-12-18",
+      "gender": "Male",
+      "address": {
+        "state": "Lumbini",
+        "city": "Palpa"
+      },
+      "registration": "NPD20010027",
+      "role": "Doctor",
+      "department": "Ophthalmology"
+    },
+    {
+      "name": "Dr. Sabita Rai",
+      "email": "sabita.rai1@gmail.com",
+      "password": "password",
+      "ph": "9801234567",
+      "dob": "1983-03-05",
+      "gender": "Female",
+      "address": {
+        "state": "Sagarmatha",
+        "city": "Sunsari"
+      },
+      "registration": "NPD20010028",
+      "role": "Doctor",
+      "department": "Ophthalmology"
+    },
+    {
+      "name": "Dr. Roshan Shrestha",
+      "email": "roshan.shrestha1@gmail.com",
+      "password": "password",
+      "ph": "9856789012",
+      "dob": "1981-06-30",
+      "gender": "Male",
+      "address": {
+        "state": "Kosi",
+        "city": "Biratnagar"
+      },
+      "registration": "NPD20010029",
+      "role": "Doctor",
+      "department": "Ophthalmology"
+    },
+    {
+      "name": "Dr. Sangita Lama",
+      "email": "sangita.lama1@gmail.com",
+      "password": "password",
+      "ph": "9845678901",
+      "dob": "1986-09-12",
+      "gender": "Female",
+      "address": {
+        "state": "Janakpur",
+        "city": "Dhanusha"
+      },
+      "registration": "NPD20010030",
+      "role": "Doctor",
+      "department": "Ophthalmology"
+    }
+  ]
+}

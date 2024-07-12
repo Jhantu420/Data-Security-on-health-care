@@ -1,0 +1,304 @@
+{
+  "users": [
+    {
+      "name": "Emily Johnson",
+      "email": "emily@gmail.com",
+      "password": "password",
+      "ph": "6500000001",
+      "dob": "1990-05-25",
+      "gender": "Female",
+      "address": {
+        "state": "California",
+        "city": "San Francisco"
+      },
+      "employeeId": "HemaNurse001",
+      "role": "Nurse",
+      "department": "Hematology"
+    },
+    {
+      "name": "Michael Smith",
+      "email": "michaelsmith@gmail.com",
+      "password": "password",
+      "ph": "6500000002",
+      "dob": "1985-09-18",
+      "gender": "Male",
+      "address": {
+        "state": "New York",
+        "city": "New York City"
+      },
+      "employeeId": "HemaNurse002",
+      "role": "Nurse",
+      "department": "Hematology"
+    },
+    {
+      "name": "Jessica Martinez",
+      "email": "jessicamartinez@gmail.com",
+      "password": "password",
+      "ph": "6500000003",
+      "dob": "1988-12-10",
+      "gender": "Female",
+      "address": {
+        "state": "Texas",
+        "city": "Houston"
+      },
+      "employeeId": "HemaNurse003",
+      "role": "Nurse",
+      "department": "Hematology"
+    },
+    {
+      "name": "Christopher Lee",
+      "email": "christopherlee@gmail.com",
+      "password": "password",
+      "ph": "6500000004",
+      "dob": "1983-07-30",
+      "gender": "Male",
+      "address": {
+        "state": "Florida",
+        "city": "Miami"
+      },
+      "employeeId": "HemaNurse004",
+      "role": "Nurse",
+      "department": "Hematology"
+    },
+    {
+      "name": "Amanda Brown",
+      "email": "amandabrown@gmail.com",
+      "password": "password",
+      "ph": "6500000005",
+      "dob": "1992-03-15",
+      "gender": "Female",
+      "address": {
+        "state": "Illinois",
+        "city": "Chicago"
+      },
+      "employeeId": "HemaNurse005",
+      "role": "Nurse",
+      "department": "Hematology"
+    },
+    {
+      "name": "David Wilson",
+      "email": "davidwilson@gmail.com",
+      "password": "password",
+      "ph": "6500000006",
+      "dob": "1986-11-20",
+      "gender": "Male",
+      "address": {
+        "state": "California",
+        "city": "Los Angeles"
+      },
+      "employeeId": "HemaNurse006",
+      "role": "Nurse",
+      "department": "Hematology"
+    },
+    {
+      "name": "Jennifer Taylor",
+      "email": "jennifertaylor@gmail.com",
+      "password": "password",
+      "ph": "6500000007",
+      "dob": "1995-02-05",
+      "gender": "Female",
+      "address": {
+        "state": "Texas",
+        "city": "Dallas"
+      },
+      "employeeId": "HemaNurse007",
+      "role": "Nurse",
+      "department": "Hematology"
+    },
+    {
+      "name": "Daniel Rodriguez",
+      "email": "danielrodriguez@gmail.com",
+      "password": "password",
+      "ph": "6500000008",
+      "dob": "1984-06-28",
+      "gender": "Male",
+      "address": {
+        "state": "Arizona",
+        "city": "Phoenix"
+      },
+      "employeeId": "HemaNurse008",
+      "role": "Nurse",
+      "department": "Hematology"
+    },
+    {
+      "name": "Sarah Garcia",
+      "email": "sarahgarcia@gmail.com",
+      "password": "password",
+      "ph": "6500000009",
+      "dob": "1991-08-12",
+      "gender": "Female",
+      "address": {
+        "state": "Georgia",
+        "city": "Atlanta"
+      },
+      "employeeId": "HemaNurse009",
+      "role": "Nurse",
+      "department": "Hematology"
+    },
+    {
+      "name": "Ryan Martinez",
+      "email": "ryanmartinez@gmail.com",
+      "password": "password",
+      "ph": "6500000010",
+      "dob": "1987-04-17",
+      "gender": "Male",
+      "address": {
+        "state": "California",
+        "city": "San Diego"
+      },
+      "employeeId": "HemaNurse010",
+      "role": "Nurse",
+      "department": "Hematology"
+    },
+    {
+      "name": "Lauren Hernandez",
+      "email": "laurenhernandez@gmail.com",
+      "password": "password",
+      "ph": "6500000011",
+      "dob": "1989-10-22",
+      "gender": "Female",
+      "address": {
+        "state": "New York",
+        "city": "Buffalo"
+      },
+      "employeeId": "HemaNurse011",
+      "role": "Nurse",
+      "department": "Hematology"
+    },
+    {
+      "name": "Matthew Lopez",
+      "email": "matthewlopez@gmail.com",
+      "password": "password",
+      "ph": "6500000012",
+      "dob": "1993-01-14",
+      "gender": "Male",
+      "address": {
+        "state": "Florida",
+        "city": "Orlando"
+      },
+      "employeeId": "HemaNurse012",
+      "role": "Nurse",
+      "department": "Hematology"
+    },
+    {
+      "name": "Ashley Martinez",
+      "email": "ashleymartinez@gmail.com",
+      "password": "password",
+      "ph": "6500000013",
+      "dob": "1982-12-07",
+      "gender": "Female",
+      "address": {
+        "state": "California",
+        "city": "San Jose"
+      },
+      "employeeId": "HemaNurse013",
+      "role": "Nurse",
+      "department": "Hematology"
+    },
+    {
+      "name": "Kevin Kim",
+      "email": "kevinkim@gmail.com",
+      "password": "password",
+      "ph": "6500000014",
+      "dob": "1980-08-30",
+      "gender": "Male",
+      "address": {
+        "state": "Texas",
+        "city": "Austin"
+      },
+      "employeeId": "HemaNurse014",
+      "role": "Nurse",
+      "department": "Hematology"
+    },
+    {
+      "name": "Samantha Nguyen",
+      "email": "samanthanguyen@gmail.com",
+      "password": "password",
+      "ph": "6500000015",
+      "dob": "1986-06-19",
+      "gender": "Female",
+      "address": {
+        "state": "California",
+        "city": "Sacramento"
+      },
+      "employeeId": "HemaNurse015",
+      "role": "Nurse",
+      "department": "Hematology"
+    },
+    {
+      "name": "Jason Brown",
+      "email": "jasonbrown@gmail.com",
+      "password": "password",
+      "ph": "6500000016",
+      "dob": "1984-03-11",
+      "gender": "Male",
+      "address": {
+        "state": "Arizona",
+        "city": "Tucson"
+      },
+      "employeeId": "HemaNurse016",
+      "role": "Nurse",
+      "department": "Hematology"
+    },
+    {
+      "name": "Rachel Adams",
+      "email": "racheladams@gmail.com",
+      "password": "password",
+      "ph": "6500000017",
+      "dob": "1990-07-28",
+      "gender": "Female",
+      "address": {
+        "state": "Illinois",
+        "city": "Springfield"
+      },
+      "employeeId": "HemaNurse017",
+      "role": "Nurse",
+      "department": "Hematology"
+    },
+    {
+      "name": "Jonathan Rivera",
+      "email": "jonathanrivera@gmail.com",
+      "password": "password",
+      "ph": "6500000018",
+      "dob": "1987-11-03",
+      "gender": "Male",
+      "address": {
+        "state": "California",
+        "city": "Fresno"
+      },
+      "employeeId": "HemaNurse018",
+      "role": "Nurse",
+      "department": "Hematology"
+    },
+    {
+      "name": "Megan Carter",
+      "email": "megancarter@gmail.com",
+      "password": "password",
+      "ph": "6500000019",
+      "dob": "1983-04-09",
+      "gender": "Female",
+      "address": {
+        "state": "Texas",
+        "city": "San Antonio"
+      },
+      "employeeId": "HemaNurse019",
+      "role": "Nurse",
+      "department": "Hematology"
+    },
+    {
+      "name": "Brandon Martinez",
+      "email": "brandonmartinez@gmail.com",
+      "password": "password",
+      "ph": "6500000020",
+      "dob": "1981-09-14",
+      "gender": "Male",
+      "address": {
+        "state": "California",
+        "city": "Oakland"
+      },
+      "employeeId": "HemaNurse020",
+      "role": "Nurse",
+      "department": "Hematology"
+    }
+  ]
+}

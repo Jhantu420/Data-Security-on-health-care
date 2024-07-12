@@ -1,0 +1,304 @@
+{
+  "users": [
+    {
+      "name": "Dr. Sofia Morales",
+      "email": "sofia.morales@gmail.com",
+      "password": "password",
+      "ph": "1201548752",
+      "dob": "1980-07-22",
+      "gender": "Female",
+      "address": {
+        "state": "Guatemala",
+        "city": "Guatemala City"
+      },
+      "registration": "GTDR21001111",
+      "role": "Doctor",
+      "department": "Radiology"
+    },
+    {
+      "name": "Dr. Alejandro Perez",
+      "email": "alejandro.perez@gmail.com",
+      "password": "password",
+      "ph": "1203987645",
+      "dob": "1975-05-15",
+      "gender": "Male",
+      "address": {
+        "state": "Guatemala",
+        "city": "Quetzaltenango"
+      },
+      "registration": "GTDR21002222",
+      "role": "Doctor",
+      "department": "Radiology"
+    },
+    {
+      "name": "Dr. Maria Garcia",
+      "email": "maria@gmail.com",
+      "password": "password",
+      "ph": "1202468013",
+      "dob": "1988-11-30",
+      "gender": "Female",
+      "address": {
+        "state": "Guatemala",
+        "city": "Escuintla"
+      },
+      "registration": "GTDR21003333",
+      "role": "Doctor",
+      "department": "Radiology"
+    },
+    {
+      "name": "Dr. Carlos Mendez",
+      "email": "carlos.mendez@gmail.com",
+      "password": "password",
+      "ph": "1207856349",
+      "dob": "1973-04-12",
+      "gender": "Male",
+      "address": {
+        "state": "Guatemala",
+        "city": "San Marcos"
+      },
+      "registration": "GTDR21004444",
+      "role": "Doctor",
+      "department": "Radiology"
+    },
+    {
+      "name": "Dr. Ana Lopez",
+      "email": "ana.lopez@gmail.com",
+      "password": "password",
+      "ph": "1209365721",
+      "dob": "1985-09-18",
+      "gender": "Female",
+      "address": {
+        "state": "Guatemala",
+        "city": "Huehuetenango"
+      },
+      "registration": "GTDR21005555",
+      "role": "Doctor",
+      "department": "Radiology"
+    },
+    {
+      "name": "Dr. Javier Rodriguez",
+      "email": "javier.rodriguez@gmail.com",
+      "password": "password",
+      "ph": "1205729318",
+      "dob": "1977-03-25",
+      "gender": "Male",
+      "address": {
+        "state": "Guatemala",
+        "city": "Chimaltenango"
+      },
+      "registration": "GTDR21006666",
+      "role": "Doctor",
+      "department": "Radiology"
+    },
+    {
+      "name": "Dr. Lucia Perez",
+      "email": "lucia.perez@gmail.com",
+      "password": "password",
+      "ph": "1204837625",
+      "dob": "1983-08-10",
+      "gender": "Female",
+      "address": {
+        "state": "Guatemala",
+        "city": "Sacatepéquez"
+      },
+      "registration": "GTDR21007777",
+      "role": "Doctor",
+      "department": "Radiology"
+    },
+    {
+      "name": "Dr. Manuel Ramirez",
+      "email": "manuel.ramirez@gmail.com",
+      "password": "password",
+      "ph": "1206284937",
+      "dob": "1979-12-05",
+      "gender": "Male",
+      "address": {
+        "state": "Guatemala",
+        "city": "Chiquimula"
+      },
+      "registration": "GTDR21008888",
+      "role": "Doctor",
+      "department": "Radiology"
+    },
+    {
+      "name": "Dr. Patricia Gomez",
+      "email": "patricia.gomez@gmail.com",
+      "password": "password",
+      "ph": "1207396812",
+      "dob": "1981-06-17",
+      "gender": "Female",
+      "address": {
+        "state": "Guatemala",
+        "city": "Retalhuleu"
+      },
+      "registration": "GTDR21009999",
+      "role": "Doctor",
+      "department": "Radiology"
+    },
+    {
+      "name": "Dr. Jose Torres",
+      "email": "jose.torres@gmail.com",
+      "password": "password",
+      "ph": "1201857392",
+      "dob": "1974-10-08",
+      "gender": "Male",
+      "address": {
+        "state": "Guatemala",
+        "city": "Suchitepéquez"
+      },
+      "registration": "GTDR21001010",
+      "role": "Doctor",
+      "department": "Radiology"
+    },
+    {
+      "name": "Dr. Sofia Castillo",
+      "email": "sofia_castillo@gmail.com",
+      "password": "password",
+      "ph": "1209458712",
+      "dob": "1982-04-29",
+      "gender": "Female",
+      "address": {
+        "state": "Guatemala",
+        "city": "Jalapa"
+      },
+      "registration": "GTDR21001112",
+      "role": "Doctor",
+      "department": "Radiology"
+    },
+    {
+      "name": "Dr. Diego Morales",
+      "email": "diego_morales@gmail.com",
+      "password": "password",
+      "ph": "1203578642",
+      "dob": "1976-09-14",
+      "gender": "Male",
+      "address": {
+        "state": "Guatemala",
+        "city": "Alta Verapaz"
+      },
+      "registration": "GTDR21002223",
+      "role": "Doctor",
+      "department": "Radiology"
+    },
+    {
+      "name": "Dr. Camila Cruz",
+      "email": "camila_cruz@gmail.com",
+      "password": "password",
+      "ph": "1206293847",
+      "dob": "1984-12-18",
+      "gender": "Female",
+      "address": {
+        "state": "Guatemala",
+        "city": "Baja Verapaz"
+      },
+      "registration": "GTDR21003334",
+      "role": "Doctor",
+      "department": "Radiology"
+    },
+    {
+      "name": "Dr. Juan Ramirez",
+      "email": "juan_ramirez@gmail.com",
+      "password": "password",
+      "ph": "1207392846",
+      "dob": "1978-03-07",
+      "gender": "Male",
+      "address": {
+        "state": "Guatemala",
+        "city": "El Progreso"
+      },
+      "registration": "GTDR21004445",
+      "role": "Doctor",
+      "department": "Radiology"
+    },
+    {
+      "name": "Dr. Elena Castro",
+      "email": "elena_castro@gmail.com",
+      "password": "password",
+      "ph": "1205684739",
+      "dob": "1980-11-23",
+      "gender": "Female",
+      "address": {
+        "state": "Guatemala",
+        "city": "Izabal"
+      },
+      "registration": "GTDR21005556",
+      "role": "Doctor",
+      "department": "Radiology"
+    },
+    {
+      "name": "Dr. Luisa Perez",
+      "email": "luisa_perez@gmail.com",
+      "password": "password",
+      "ph": "1209384756",
+      "dob": "1986-07-12",
+      "gender": "Female",
+      "address": {
+        "state": "Guatemala",
+        "city": "Petén"
+      },
+      "registration": "GTDR21006667",
+      "role": "Doctor",
+      "department": "Radiology"
+    },
+    {
+      "name": "Dr. Ricardo Mendez",
+      "email": "ricardo_mendez@gmail.com",
+      "password": "password",
+      "ph": "1204875638",
+      "dob": "1972-10-30",
+      "gender": "Male",
+      "address": {
+        "state": "Guatemala",
+        "city": "Quiché"
+      },
+      "registration": "GTDR21007778",
+      "role": "Doctor",
+      "department": "Radiology"
+    },
+    {
+      "name": "Dr. Mariana Lopez",
+      "email": "mariana_lopez@gmail.com",
+      "password": "password",
+      "ph": "1206293845",
+      "dob": "1979-05-19",
+      "gender": "Female",
+      "address": {
+        "state": "Guatemala",
+        "city": "Quetzaltenango"
+      },
+      "registration": "GTDR21008889",
+      "role": "Doctor",
+      "department": "Radiology"
+    },
+    {
+      "name": "Dr. Javier Torres",
+      "email": "javier_torres@gmail.com",
+      "password": "password",
+      "ph": "1203847562",
+      "dob": "1983-08-27",
+      "gender": "Male",
+      "address": {
+        "state": "Guatemala",
+        "city": "Retalhuleu"
+      },
+      "registration": "GTDR21009990",
+      "role": "Doctor",
+      "department": "Radiology"
+    },
+    {
+      "name": "Dr. Paula Gomez",
+      "email": "paula_gomez@gmail.com",
+      "password": "password",
+      "ph": "1205738496",
+      "dob": "1975-12-03",
+      "gender": "Female",
+      "address": {
+        "state": "Guatemala",
+        "city": "San Marcos"
+      },
+      "registration": "GTDR21001020",
+      "role": "Doctor",
+      "department": "Radiology"
+    }
+  ]
+}

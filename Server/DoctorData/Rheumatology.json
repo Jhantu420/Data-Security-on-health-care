@@ -1,0 +1,304 @@
+{
+  "users": [
+    {
+      "name": "Dr. Eva Kovacs",
+      "email": "eva.kovacs@gmail.com",
+      "password": "password",
+      "ph": "1312354125",
+      "dob": "1980-09-20",
+      "gender": "Female",
+      "address": {
+        "state": "Pest",
+        "city": "Budapest"
+      },
+      "registration": "HUN20010001",
+      "role": "Doctor",
+      "department": "Rheumatology"
+    },
+    {
+      "name": "Dr. Istvan Toth",
+      "email": "istvan.toth@gmail.com",
+      "password": "password",
+      "ph": "1313456789",
+      "dob": "1975-05-15",
+      "gender": "Male",
+      "address": {
+        "state": "Heves",
+        "city": "Eger"
+      },
+      "registration": "HUN20010002",
+      "role": "Doctor",
+      "department": "Rheumatology"
+    },
+    {
+      "name": "Dr. Zsuzsanna Nagy",
+      "email": "zsuzsanna.nagy@gmail.com",
+      "password": "password",
+      "ph": "1314567890",
+      "dob": "1984-11-03",
+      "gender": "Female",
+      "address": {
+        "state": "Borsod-Abaúj-Zemplén",
+        "city": "Miskolc"
+      },
+      "registration": "HUN20010003",
+      "role": "Doctor",
+      "department": "Rheumatology"
+    },
+    {
+      "name": "Dr. Gabor Horvath",
+      "email": "gabor.horvath@gmail.com",
+      "password": "password",
+      "ph": "1315678901",
+      "dob": "1978-07-28",
+      "gender": "Male",
+      "address": {
+        "state": "Budapest",
+        "city": "Budapest"
+      },
+      "registration": "HUN20010004",
+      "role": "Doctor",
+      "department": "Rheumatology"
+    },
+    {
+      "name": "Dr. Agnes Kiss",
+      "email": "agnes.kiss@gmail.com",
+      "password": "password",
+      "ph": "1316789012",
+      "dob": "1982-03-10",
+      "gender": "Female",
+      "address": {
+        "state": "Békés",
+        "city": "Békéscsaba"
+      },
+      "registration": "HUN20010005",
+      "role": "Doctor",
+      "department": "Rheumatology"
+    },
+    {
+      "name": "Dr. Attila Szabo",
+      "email": "attila.szabo@gmail.com",
+      "password": "password",
+      "ph": "1317890123",
+      "dob": "1973-12-17",
+      "gender": "Male",
+      "address": {
+        "state": "Szabolcs-Szatmár-Bereg",
+        "city": "Nyíregyháza"
+      },
+      "registration": "HUN20010006",
+      "role": "Doctor",
+      "department": "Rheumatology"
+    },
+    {
+      "name": "Dr. Andrea Farkas",
+      "email": "andrea.farkas@gmail.com",
+      "password": "password",
+      "ph": "1318901234",
+      "dob": "1986-08-25",
+      "gender": "Female",
+      "address": {
+        "state": "Hajdú-Bihar",
+        "city": "Debrecen"
+      },
+      "registration": "HUN20010007",
+      "role": "Doctor",
+      "department": "Rheumatology"
+    },
+    {
+      "name": "Dr. Péter Varga",
+      "email": "peter.varga@gmail.com",
+      "password": "password",
+      "ph": "1319012345",
+      "dob": "1977-04-07",
+      "gender": "Male",
+      "address": {
+        "state": "Baranya",
+        "city": "Pécs"
+      },
+      "registration": "HUN20010008",
+      "role": "Doctor",
+      "department": "Rheumatology"
+    },
+    {
+      "name": "Dr. Edit Kovacs",
+      "email": "edit.kovacs@gmail.com",
+      "password": "password",
+      "ph": "1310123456",
+      "dob": "1981-01-30",
+      "gender": "Female",
+      "address": {
+        "state": "Győr-Moson-Sopron",
+        "city": "Győr"
+      },
+      "registration": "HUN20010009",
+      "role": "Doctor",
+      "department": "Rheumatology"
+    },
+    {
+      "name": "Dr. Gergely Balogh",
+      "email": "gergely.balogh@gmail.com",
+      "password": "password",
+      "ph": "1311234567",
+      "dob": "1979-06-12",
+      "gender": "Male",
+      "address": {
+        "state": "Zala",
+        "city": "Zalaegerszeg"
+      },
+      "registration": "HUN20010010",
+      "role": "Doctor",
+      "department": "Rheumatology"
+    },
+    {
+      "name": "Dr. Viktoria Kovacs",
+      "email": "vik.kovacs@gmail.com",
+      "password": "password",
+      "ph": "1312345678",
+      "dob": "1985-07-19",
+      "gender": "Female",
+      "address": {
+        "state": "Somogy",
+        "city": "Kaposvár"
+      },
+      "registration": "HUN20010011",
+      "role": "Doctor",
+      "department": "Rheumatology"
+    },
+    {
+      "name": "Dr. Balazs Toth",
+      "email": "bal.toth@gmail.com",
+      "password": "password",
+      "ph": "1312345679",
+      "dob": "1974-12-03",
+      "gender": "Male",
+      "address": {
+        "state": "Veszprém",
+        "city": "Veszprém"
+      },
+      "registration": "HUN20010012",
+      "role": "Doctor",
+      "department": "Rheumatology"
+    },
+    {
+      "name": "Dr. Katalin Nagy",
+      "email": "katalin.nagy2@gmail.com",
+      "password": "password",
+      "ph": "1314567891",
+      "dob": "1983-05-27",
+      "gender": "Female",
+      "address": {
+        "state": "Tolna",
+        "city": "Szekszárd"
+      },
+      "registration": "HUN20010013",
+      "role": "Doctor",
+      "department": "Rheumatology"
+    },
+    {
+      "name": "Dr. Laszlo Horvath",
+      "email": "las.horvath@gmail.com",
+      "password": "password",
+      "ph": "1315678902",
+      "dob": "1976-09-14",
+      "gender": "Male",
+      "address": {
+        "state": "Fejér",
+        "city": "Székesfehérvár"
+      },
+      "registration": "HUN20010014",
+      "role": "Doctor",
+      "department": "Rheumatology"
+    },
+    {
+      "name": "Dr. Zsolt Kiss",
+      "email": "zsolt.kiss2@gmail.com",
+      "password": "password",
+      "ph": "1316789013",
+      "dob": "1980-02-08",
+      "gender": "Male",
+      "address": {
+        "state": "Csongrád",
+        "city": "Szeged"
+      },
+      "registration": "HUN20010015",
+      "role": "Doctor",
+      "department": "Rheumatology"
+    },
+    {
+      "name": "Dr. Maria Szabo",
+      "email": "maria.szabo2@gmail.com",
+      "password": "password",
+      "ph": "1317890124",
+      "dob": "1972-11-21",
+      "gender": "Female",
+      "address": {
+        "state": "Jász-Nagykun-Szolnok",
+        "city": "Szolnok"
+      },
+      "registration": "HUN20010016",
+      "role": "Doctor",
+      "department": "Rheumatology"
+    },
+    {
+      "name": "Dr. Gyorgy Farkas",
+      "email": "gyorgy.farkas2@gmail.com",
+      "password": "password",
+      "ph": "1318901235",
+      "dob": "1979-04-02",
+      "gender": "Male",
+      "address": {
+        "state": "Bács-Kiskun",
+        "city": "Kecskemét"
+      },
+      "registration": "HUN20010017",
+      "role": "Doctor",
+      "department": "Rheumatology"
+    },
+    {
+      "name": "Dr. Anna Varga",
+      "email": "anna.varga2@gmail.com",
+      "password": "password",
+      "ph": "1319012346",
+      "dob": "1987-08-11",
+      "gender": "Female",
+      "address": {
+        "state": "Békés",
+        "city": "Gyula"
+      },
+      "registration": "HUN20010018",
+      "role": "Doctor",
+      "department": "Rheumatology"
+    },
+    {
+      "name": "Dr. Sandor Kovacs",
+      "email": "sandor.kovacs2@gmail.com",
+      "password": "password",
+      "ph": "1310123457",
+      "dob": "1984-03-25",
+      "gender": "Male",
+      "address": {
+        "state": "Nógrád",
+        "city": "Salgótarján"
+      },
+      "registration": "HUN20010019",
+      "role": "Doctor",
+      "department": "Rheumatology"
+    },
+    {
+      "name": "Dr. Judit Balogh",
+      "email": "judit.balogh2@gmail.com",
+      "password": "password",
+      "ph": "1311234568",
+      "dob": "1986-06-18",
+      "gender": "Female",
+      "address": {
+        "state": "Hajdú-Bihar",
+        "city": "Hajdúböszörmény"
+      },
+      "registration": "HUN20010020",
+      "role": "Doctor",
+      "department": "Rheumatology"
+    }
+  ]
+}

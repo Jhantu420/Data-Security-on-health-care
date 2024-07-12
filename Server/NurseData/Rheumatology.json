@@ -1,0 +1,304 @@
+{
+    "users": [
+      {
+        "name": "Amina Meier",
+        "email": "aminameier@gmail.com",
+        "password": "password",
+        "ph": "6000000001",
+        "dob": "1990-05-15",
+        "gender": "Female",
+        "address": {
+          "state": "Liechtenstein",
+          "city": "Vaduz"
+        },
+        "employeeId": "RheuNurse001",
+        "role": "Nurse",
+        "department": "Rheumatology"
+      },
+      {
+        "name": "Benjamin Müller",
+        "email": "benjaminmuller@gmail.com",
+        "password": "password",
+        "ph": "6000000002",
+        "dob": "1985-09-28",
+        "gender": "Male",
+        "address": {
+          "state": "Liechtenstein",
+          "city": "Schaan"
+        },
+        "employeeId": "RheuNurse002",
+        "role": "Nurse",
+        "department": "Rheumatology"
+      },
+      {
+        "name": "Carina Schmid",
+        "email": "carinaschmid@gmail.com",
+        "password": "password",
+        "ph": "6000000003",
+        "dob": "1988-12-10",
+        "gender": "Female",
+        "address": {
+          "state": "Liechtenstein",
+          "city": "Triesen"
+        },
+        "employeeId": "RheuNurse003",
+        "role": "Nurse",
+        "department": "Rheumatology"
+      },
+      {
+        "name": "David Fischer",
+        "email": "davidfischer@gmail.com",
+        "password": "password",
+        "ph": "6000000004",
+        "dob": "1983-07-30",
+        "gender": "Male",
+        "address": {
+          "state": "Liechtenstein",
+          "city": "Balzers"
+        },
+        "employeeId": "RheuNurse004",
+        "role": "Nurse",
+        "department": "Rheumatology"
+      },
+      {
+        "name": "Elena Berger",
+        "email": "elenaberger@gmail.com",
+        "password": "password",
+        "ph": "6000000005",
+        "dob": "1992-03-15",
+        "gender": "Female",
+        "address": {
+          "state": "Liechtenstein",
+          "city": "Mauren"
+        },
+        "employeeId": "RheuNurse005",
+        "role": "Nurse",
+        "department": "Rheumatology"
+      },
+      {
+        "name": "Felix Huber",
+        "email": "felixhuber@gmail.com",
+        "password": "password",
+        "ph": "6000000006",
+        "dob": "1986-11-20",
+        "gender": "Male",
+        "address": {
+          "state": "Liechtenstein",
+          "city": "Eschen"
+        },
+        "employeeId": "RheuNurse006",
+        "role": "Nurse",
+        "department": "Rheumatology"
+      },
+      {
+        "name": "Gabriela Wagner",
+        "email": "gabrielawagner@gmail.com",
+        "password": "password",
+        "ph": "6000000007",
+        "dob": "1995-02-05",
+        "gender": "Female",
+        "address": {
+          "state": "Liechtenstein",
+          "city": "Gamprin"
+        },
+        "employeeId": "RheuNurse007",
+        "role": "Nurse",
+        "department": "Rheumatology"
+      },
+      {
+        "name": "Hannes Roth",
+        "email": "hannesroth@gmail.com",
+        "password": "password",
+        "ph": "6000000008",
+        "dob": "1984-06-28",
+        "gender": "Male",
+        "address": {
+          "state": "Liechtenstein",
+          "city": "Ruggell"
+        },
+        "employeeId": "RheuNurse008",
+        "role": "Nurse",
+        "department": "Rheumatology"
+      },
+      {
+        "name": "Ines Kaiser",
+        "email": "ineskaiser@gmail.com",
+        "password": "password",
+        "ph": "6000000009",
+        "dob": "1991-08-12",
+        "gender": "Female",
+        "address": {
+          "state": "Liechtenstein",
+          "city": "Schaanwald"
+        },
+        "employeeId": "RheuNurse009",
+        "role": "Nurse",
+        "department": "Rheumatology"
+      },
+      {
+        "name": "Jonas Schneider",
+        "email": "jonasschneider@gmail.com",
+        "password": "password",
+        "ph": "6000000010",
+        "dob": "1987-04-17",
+        "gender": "Male",
+        "address": {
+          "state": "Liechtenstein",
+          "city": "Planken"
+        },
+        "employeeId": "RheuNurse010",
+        "role": "Nurse",
+        "department": "Rheumatology"
+      },
+      {
+        "name": "Klara Weber",
+        "email": "klaraweber@gmail.com",
+        "password": "password",
+        "ph": "6000000011",
+        "dob": "1989-10-22",
+        "gender": "Female",
+        "address": {
+          "state": "Liechtenstein",
+          "city": "Gamprin"
+        },
+        "employeeId": "RheuNurse011",
+        "role": "Nurse",
+        "department": "Rheumatology"
+      },
+      {
+        "name": "Lukas Vogt",
+        "email": "lukasvogt@gmail.com",
+        "password": "password",
+        "ph": "6000000012",
+        "dob": "1993-01-14",
+        "gender": "Male",
+        "address": {
+          "state": "Liechtenstein",
+          "city": "Triesenberg"
+        },
+        "employeeId": "RheuNurse012",
+        "role": "Nurse",
+        "department": "Rheumatology"
+      },
+      {
+        "name": "Maria Zimmermann",
+        "email": "mariazimmermann@gmail.com",
+        "password": "password",
+        "ph": "6000000013",
+        "dob": "1982-12-07",
+        "gender": "Female",
+        "address": {
+          "state": "Liechtenstein",
+          "city": "Balzers"
+        },
+        "employeeId": "RheuNurse013",
+        "role": "Nurse",
+        "department": "Rheumatology"
+      },
+      {
+        "name": "Niko Müller",
+        "email": "nikomuller@gmail.com",
+        "password": "password",
+        "ph": "6000000014",
+        "dob": "1980-08-30",
+        "gender": "Male",
+        "address": {
+          "state": "Liechtenstein",
+          "city": "Mauren"
+        },
+        "employeeId": "RheuNurse014",
+        "role": "Nurse",
+        "department": "Rheumatology"
+      },
+      {
+        "name": "Olivia Egli",
+        "email": "oliviaegli@gmail.com",
+        "password": "password",
+        "ph": "6000000015",
+        "dob": "1986-06-19",
+        "gender": "Female",
+        "address": {
+          "state": "Liechtenstein",
+          "city": "Eschen"
+        },
+        "employeeId": "RheuNurse015",
+        "role": "Nurse",
+        "department": "Rheumatology"
+      },
+      {
+        "name": "Peter Beck",
+        "email": "peterbeck@gmail.com",
+        "password": "password",
+        "ph": "6000000016",
+        "dob": "1984-03-11",
+        "gender": "Male",
+        "address": {
+          "state": "Liechtenstein",
+          "city": "Triesen"
+        },
+        "employeeId": "RheuNurse016",
+        "role": "Nurse",
+        "department": "Rheumatology"
+      },
+      {
+        "name": "Qara Zhubanov",
+        "email": "qarazhubanov@gmail.com",
+        "password": "password",
+        "ph": "6000000017",
+        "dob": "1990-07-28",
+        "gender": "Male",
+        "address": {
+          "state": "Liechtenstein",
+          "city": "Ruggell"
+        },
+        "employeeId": "RheuNurse017",
+        "role": "Nurse",
+        "department": "Rheumatology"
+      },
+      {
+        "name": "Rita Kessler",
+        "email": "ritakessler@gmail.com",
+        "password": "password",
+        "ph": "6000000018",
+        "dob": "1987-11-03",
+        "gender": "Female",
+        "address": {
+          "state": "Liechtenstein",
+          "city": "Schellenberg"
+        },
+        "employeeId": "RheuNurse018",
+        "role": "Nurse",
+        "department": "Rheumatology"
+      },
+      {
+        "name": "Sandro Schuler",
+        "email": "sandroschuler@gmail.com",
+        "password": "password",
+        "ph": "6000000019",
+        "dob": "1983-04-09",
+        "gender": "Male",
+        "address": {
+          "state": "Liechtenstein",
+          "city": "Gamprin"
+        },
+        "employeeId": "RheuNurse019",
+        "role": "Nurse",
+        "department": "Rheumatology"
+      },
+      {
+        "name": "Tanja Fuchs",
+        "email": "tanjafuchs@gmail.com",
+        "password": "password",
+        "ph": "6000000020",
+        "dob": "1981-09-14",
+        "gender": "Female",
+        "address": {
+          "state": "Liechtenstein",
+          "city": "Triesenberg"
+        },
+        "employeeId": "RheuNurse020",
+        "role": "Nurse",
+        "department": "Rheumatology"
+      }
+    ]
+  }

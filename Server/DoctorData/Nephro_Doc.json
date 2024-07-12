@@ -1,0 +1,324 @@
+{
+  "users": [
+    {
+      "name": "Dr. Mohammad Rahman",
+      "email": "mohammad.rahman@gmail.com",
+      "password": "password",
+      "ph": "8801712345678",
+      "dob": "1980-05-22",
+      "gender": "Male",
+      "address": {
+        "country": "Bangladesh",
+        "state": "Dhaka",
+        "city": "Dhaka"
+      },
+      "registration": "BAN20011101",
+      "role": "Doctor",
+      "department": "Nephrology"
+    },
+    {
+      "name": "Dr. Fatima Khan",
+      "email": "fatima.khan@gmail.com",
+      "password": "password",
+      "ph": "8801812345678",
+      "dob": "1975-09-15",
+      "gender": "Female",
+      "address": {
+        "country": "Bangladesh",
+        "state": "Chittagong",
+        "city": "Chittagong"
+      },
+      "registration": "BAN20021102",
+      "role": "Doctor",
+      "department": "Nephrology"
+    },
+    {
+      "name": "Dr. Ahmed Ali",
+      "email": "ahmed.ali@gmail.com",
+      "password": "password",
+      "ph": "8801912345678",
+      "dob": "1982-12-10",
+      "gender": "Male",
+      "address": {
+        "country": "Bangladesh",
+        "state": "Rajshahi",
+        "city": "Rajshahi"
+      },
+      "registration": "BAN20031103",
+      "role": "Doctor",
+      "department": "Nephrology"
+    },
+    {
+      "name": "Dr. Aisha Rahman",
+      "email": "aisha.rahman@gmail.com",
+      "password": "password",
+      "ph": "8801712345679",
+      "dob": "1985-07-18",
+      "gender": "Female",
+      "address": {
+        "country": "Bangladesh",
+        "state": "Khulna",
+        "city": "Khulna"
+      },
+      "registration": "BAN20041104",
+      "role": "Doctor",
+      "department": "Nephrology"
+    },
+    {
+      "name": "Dr. Abdul Haque",
+      "email": "abdul.haque@gmail.com",
+      "password": "password",
+      "ph": "8801812345680",
+      "dob": "1978-03-25",
+      "gender": "Male",
+      "address": {
+        "country": "Bangladesh",
+        "state": "Barisal",
+        "city": "Barisal"
+      },
+      "registration": "BAN20051105",
+      "role": "Doctor",
+      "department": "Nephrology"
+    },
+    {
+      "name": "Dr. Nazma Akhtar",
+      "email": "nazma.akhtar@gmail.com",
+      "password": "password",
+      "ph": "8801912345681",
+      "dob": "1987-11-30",
+      "gender": "Female",
+      "address": {
+        "country": "Bangladesh",
+        "state": "Sylhet",
+        "city": "Sylhet"
+      },
+      "registration": "BAN20061106",
+      "role": "Doctor",
+      "department": "Nephrology"
+    },
+    {
+      "name": "Dr. Farhan Khan",
+      "email": "farhan.khan@gmail.com",
+      "password": "password",
+      "ph": "8801712345682",
+      "dob": "1984-01-12",
+      "gender": "Male",
+      "address": {
+        "country": "Bangladesh",
+        "state": "Mymensingh",
+        "city": "Mymensingh"
+      },
+      "registration": "BAN20071107",
+      "role": "Doctor",
+      "department": "Nephrology"
+    },
+    {
+      "name": "Dr. Tasnim Ahmed",
+      "email": "tasnim.ahmed@gmail.com",
+      "password": "password",
+      "ph": "8801812345683",
+      "dob": "1976-08-05",
+      "gender": "Female",
+      "address": {
+        "country": "Bangladesh",
+        "state": "Dinajpur",
+        "city": "Dinajpur"
+      },
+      "registration": "BAN20081108",
+      "role": "Doctor",
+      "department": "Nephrology"
+    },
+    {
+      "name": "Dr. Kamrul Islam",
+      "email": "kamrul.islam@gmail.com",
+      "password": "password",
+      "ph": "8801912345684",
+      "dob": "1981-04-28",
+      "gender": "Male",
+      "address": {
+        "country": "Bangladesh",
+        "state": "Rangpur",
+        "city": "Rangpur"
+      },
+      "registration": "BAN20091109",
+      "role": "Doctor",
+      "department": "Nephrology"
+    },
+    {
+      "name": "Dr. Sumaiya Chowdhury",
+      "email": "sumaiya.chowdhury@gmail.com",
+      "password": "password",
+      "ph": "8801712345685",
+      "dob": "1983-06-17",
+      "gender": "Female",
+      "address": {
+        "country": "Bangladesh",
+        "state": "Jessore",
+        "city": "Jessore"
+      },
+      "registration": "BAN20101110",
+      "role": "Doctor",
+      "department": "Nephrology"
+    },
+    {
+        "name": "Dr. Ali Khan",
+        "email": "ali.khan@gmail.com",
+        "password": "password",
+        "ph": "8801812345686",
+        "dob": "1979-09-08",
+        "gender": "Male",
+        "address": {
+          "country": "Bangladesh",
+          "state": "Dhaka",
+          "city": "Dhaka"
+        },
+        "registration": "BAN20111111",
+        "role": "Doctor",
+        "department": "Nephrology"
+      },
+      {
+        "name": "Dr. Yasmin Chowdhury",
+        "email": "yasmin.chowdhury@gmail.com",
+        "password": "password",
+        "ph": "8801912345687",
+        "dob": "1986-03-14",
+        "gender": "Female",
+        "address": {
+          "country": "Bangladesh",
+          "state": "Chittagong",
+          "city": "Chittagong"
+        },
+        "registration": "BAN20121112",
+        "role": "Doctor",
+        "department": "Nephrology"
+      },
+      {
+        "name": "Dr. Imran Ahmed",
+        "email": "imran.ahmed@gmail.com",
+        "password": "password",
+        "ph": "8801712345688",
+        "dob": "1980-07-25",
+        "gender": "Male",
+        "address": {
+          "country": "Bangladesh",
+          "state": "Rajshahi",
+          "city": "Rajshahi"
+        },
+        "registration": "BAN20131113",
+        "role": "Doctor",
+        "department": "Nephrology"
+      },
+      {
+        "name": "Dr. Nusrat Jahan",
+        "email": "nusrat.jahan@gmail.com",
+        "password": "password",
+        "ph": "8801812345689",
+        "dob": "1983-12-19",
+        "gender": "Female",
+        "address": {
+          "country": "Bangladesh",
+          "state": "Khulna",
+          "city": "Khulna"
+        },
+        "registration": "BAN20141114",
+        "role": "Doctor",
+        "department": "Nephrology"
+      },
+      {
+        "name": "Dr. Amirul Islam",
+        "email": "amirul.islam@gmail.com",
+        "password": "password",
+        "ph": "8801912345690",
+        "dob": "1977-05-30",
+        "gender": "Male",
+        "address": {
+          "country": "Bangladesh",
+          "state": "Barisal",
+          "city": "Barisal"
+        },
+        "registration": "BAN20151115",
+        "role": "Doctor",
+        "department": "Nephrology"
+      },
+      {
+        "name": "Dr. Rima Akter",
+        "email": "rima.akter@gmail.com",
+        "password": "password",
+        "ph": "8801712345691",
+        "dob": "1984-10-03",
+        "gender": "Female",
+        "address": {
+          "country": "Bangladesh",
+          "state": "Sylhet",
+          "city": "Sylhet"
+        },
+        "registration": "BAN20161116",
+        "role": "Doctor",
+        "department": "Nephrology"
+      },
+      {
+        "name": "Dr. Shahidul Haque",
+        "email": "shahidul.haque@gmail.com",
+        "password": "password",
+        "ph": "8801812345692",
+        "dob": "1979-02-15",
+        "gender": "Male",
+        "address": {
+          "country": "Bangladesh",
+          "state": "Mymensingh",
+          "city": "Mymensingh"
+        },
+        "registration": "BAN20171117",
+        "role": "Doctor",
+        "department": "Nephrology"
+      },
+      {
+        "name": "Dr. Ayesha Rahman",
+        "email": "ayesha.rahman@gmail.com",
+        "password": "password",
+        "ph": "8801912345693",
+        "dob": "1981-06-28",
+        "gender": "Female",
+        "address": {
+          "country": "Bangladesh",
+          "state": "Dinajpur",
+          "city": "Dinajpur"
+        },
+        "registration": "BAN20181118",
+        "role": "Doctor",
+        "department": "Nephrology"
+      },
+      {
+        "name": "Dr. Khalid Hossain",
+        "email": "khalid.hossain@gmail.com",
+        "password": "password",
+        "ph": "8801712345694",
+        "dob": "1985-08-11",
+        "gender": "Male",
+        "address": {
+          "country": "Bangladesh",
+          "state": "Rangpur",
+          "city": "Rangpur"
+        },
+        "registration": "BAN20191119",
+        "role": "Doctor",
+        "department": "Nephrology"
+      },
+      {
+        "name": "Dr. Rubina Khan",
+        "email": "rubina.khan@gmail.com",
+        "password": "password",
+        "ph": "8801812345695",
+        "dob": "1982-11-24",
+        "gender": "Female",
+        "address": {
+          "country": "Bangladesh",
+          "state": "Jessore",
+          "city": "Jessore"
+        },
+        "registration": "BAN20201120",
+        "role": "Doctor",
+        "department": "Nephrology"
+      }
+  ]
+}

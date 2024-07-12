@@ -1,0 +1,304 @@
+{
+  "users": [
+    {
+      "name": "Aisha Abdullaeva",
+      "email": "aishaabdullaeva@gmail.com",
+      "password": "password",
+      "ph": "6900012345",
+      "dob": "1990-05-15",
+      "gender": "Female",
+      "address": {
+        "state": "Chuy",
+        "city": "Bishkek"
+      },
+      "employeeId": "RadNurse001",
+      "role": "Nurse",
+      "department": "Radiology"
+    },
+    {
+      "name": "Bakyt Omurkulov",
+      "email": "bakytomurkulov@gmail.com",
+      "password": "password",
+      "ph": "6900023456",
+      "dob": "1985-09-28",
+      "gender": "Male",
+      "address": {
+        "state": "Issyk-Kul",
+        "city": "Karakol"
+      },
+      "employeeId": "RadNurse002",
+      "role": "Nurse",
+      "department": "Radiology"
+    },
+    {
+      "name": "Cholpon Jumabekova",
+      "email": "cholponjumabekova@gmail.com",
+      "password": "password",
+      "ph": "6900034567",
+      "dob": "1988-12-10",
+      "gender": "Female",
+      "address": {
+        "state": "Jalal-Abad",
+        "city": "Jalal-Abad"
+      },
+      "employeeId": "RadNurse003",
+      "role": "Nurse",
+      "department": "Radiology"
+    },
+    {
+      "name": "Dastan Turgunov",
+      "email": "dastanturgunov@gmail.com",
+      "password": "password",
+      "ph": "6900045678",
+      "dob": "1983-07-30",
+      "gender": "Male",
+      "address": {
+        "state": "Naryn",
+        "city": "Naryn"
+      },
+      "employeeId": "RadNurse004",
+      "role": "Nurse",
+      "department": "Radiology"
+    },
+    {
+      "name": "Elina Karimova",
+      "email": "elinakarimova@gmail.com",
+      "password": "password",
+      "ph": "6900056789",
+      "dob": "1992-03-15",
+      "gender": "Female",
+      "address": {
+        "state": "Osh",
+        "city": "Osh"
+      },
+      "employeeId": "RadNurse005",
+      "role": "Nurse",
+      "department": "Radiology"
+    },
+    {
+      "name": "Farhad Bekturov",
+      "email": "farhadbekturov@gmail.com",
+      "password": "password",
+      "ph": "6900067890",
+      "dob": "1986-11-20",
+      "gender": "Male",
+      "address": {
+        "state": "Talas",
+        "city": "Talas"
+      },
+      "employeeId": "RadNurse006",
+      "role": "Nurse",
+      "department": "Radiology"
+    },
+    {
+      "name": "Gulmira Sadykova",
+      "email": "gulmirasadykova@gmail.com",
+      "password": "password",
+      "ph": "6900078901",
+      "dob": "1995-02-05",
+      "gender": "Female",
+      "address": {
+        "state": "Batken",
+        "city": "Batken"
+      },
+      "employeeId": "RadNurse007",
+      "role": "Nurse",
+      "department": "Radiology"
+    },
+    {
+      "name": "Habib Jalilov",
+      "email": "habibjalilov@gmail.com",
+      "password": "password",
+      "ph": "6900089012",
+      "dob": "1984-06-28",
+      "gender": "Male",
+      "address": {
+        "state": "Chuy",
+        "city": "Tokmok"
+      },
+      "employeeId": "RadNurse008",
+      "role": "Nurse",
+      "department": "Radiology"
+    },
+    {
+      "name": "Indira Musaeva",
+      "email": "indiramusaeva@gmail.com",
+      "password": "password",
+      "ph": "6900090123",
+      "dob": "1991-08-12",
+      "gender": "Female",
+      "address": {
+        "state": "Talas",
+        "city": "Manas"
+      },
+      "employeeId": "RadNurse009",
+      "role": "Nurse",
+      "department": "Radiology"
+    },
+    {
+      "name": "Joldoshbek Abdyldaev",
+      "email": "joldoshbekabdyldaev@gmail.com",
+      "password": "password",
+      "ph": "6900101234",
+      "dob": "1987-04-17",
+      "gender": "Male",
+      "address": {
+        "state": "Osh",
+        "city": "Jalal-Abad"
+      },
+      "employeeId": "RadNurse010",
+      "role": "Nurse",
+      "department": "Radiology"
+    },
+    {
+      "name": "Karlygash Mambetova",
+      "email": "karlygashmambetova@gmail.com",
+      "password": "password",
+      "ph": "6900112345",
+      "dob": "1989-10-22",
+      "gender": "Female",
+      "address": {
+        "state": "Batken",
+        "city": "Leilek"
+      },
+      "employeeId": "RadNurse011",
+      "role": "Nurse",
+      "department": "Radiology"
+    },
+    {
+      "name": "Madina Satarova",
+      "email": "madinasatarova@gmail.com",
+      "password": "password",
+      "ph": "6900123456",
+      "dob": "1993-01-14",
+      "gender": "Female",
+      "address": {
+        "state": "Issyk-Kul",
+        "city": "Karakol"
+      },
+      "employeeId": "RadNurse012",
+      "role": "Nurse",
+      "department": "Radiology"
+    },
+    {
+      "name": "Nurlan Kudaibergenov",
+      "email": "nurlankudaibergenov@gmail.com",
+      "password": "password",
+      "ph": "6900134567",
+      "dob": "1982-12-07",
+      "gender": "Male",
+      "address": {
+        "state": "Naryn",
+        "city": "Naryn"
+      },
+      "employeeId": "RadNurse013",
+      "role": "Nurse",
+      "department": "Radiology"
+    },
+    {
+      "name": "Orkhan Baimuratov",
+      "email": "orkhanbaimuratov@gmail.com",
+      "password": "password",
+      "ph": "6900145678",
+      "dob": "1980-08-30",
+      "gender": "Male",
+      "address": {
+        "state": "Jalal-Abad",
+        "city": "Kyzyl-Kiya"
+      },
+      "employeeId": "RadNurse014",
+      "role": "Nurse",
+      "department": "Radiology"
+    },
+    {
+      "name": "Patimat Abdykadyrova",
+      "email": "patimatabdykadyrova@gmail.com",
+      "password": "password",
+      "ph": "6900156789",
+      "dob": "1986-06-19",
+      "gender": "Female",
+      "address": {
+        "state": "Talas",
+        "city": "Bakai-Ata"
+      },
+      "employeeId": "RadNurse015",
+      "role": "Nurse",
+      "department": "Radiology"
+    },
+    {
+      "name": "Rustam Kurmanbekov",
+      "email": "rustamkurmanbekov@gmail.com",
+      "password": "password",
+      "ph": "6900167890",
+      "dob": "1984-03-11",
+      "gender": "Male",
+      "address": {
+        "state": "Issyk-Kul",
+        "city": "Cholpon-Ata"
+      },
+      "employeeId": "RadNurse016",
+      "role": "Nurse",
+      "department": "Radiology"
+    },
+    {
+      "name": "Salamat Sulaimanov",
+      "email": "salamatsulaimanov@gmail.com",
+      "password": "password",
+      "ph": "6900178901",
+      "dob": "1990-07-28",
+      "gender": "Male",
+      "address": {
+        "state": "Batken",
+        "city": "Sulukta"
+      },
+      "employeeId": "RadNurse017",
+      "role": "Nurse",
+      "department": "Radiology"
+    },
+    {
+      "name": "Tazegul Toktogulova",
+      "email": "tazegultoktogulova@gmail.com",
+      "password": "password",
+      "ph": "6900189012",
+      "dob": "1987-11-03",
+      "gender": "Female",
+      "address": {
+        "state": "Chuy",
+        "city": "Kant"
+      },
+      "employeeId": "RadNurse018",
+      "role": "Nurse",
+      "department": "Radiology"
+    },
+    {
+      "name": "Ulan Moldoshev",
+      "email": "ulanmoldoshev@gmail.com",
+      "password": "password",
+      "ph": "6900190123",
+      "dob": "1983-04-09",
+      "gender": "Male",
+      "address": {
+        "state": "Osh",
+        "city": "Osh"
+      },
+      "employeeId": "RadNurse019",
+      "role": "Nurse",
+      "department": "Radiology"
+    },
+    {
+      "name": "Venera Aitmatova",
+      "email": "veneraaitmatova@gmail.com",
+      "password": "password",
+      "ph": "6900201234",
+      "dob": "1981-09-14",
+      "gender": "Female",
+      "address": {
+        "state": "Jalal-Abad",
+        "city": "Mailuu-Suu"
+      },
+      "employeeId": "RadNurse020",
+      "role": "Nurse",
+      "department": "Radiology"
+    }
+  ]
+}

@@ -1,0 +1,304 @@
+{
+    "users": [
+      {
+        "name": "Nurse Altantsetseg Batbold",
+        "email": "altantsetseg.batbold@gmail.com",
+        "password": "password",
+        "ph": "5267890123",
+        "dob": "1990-05-15",
+        "gender": "Female",
+        "address": {
+          "state": "Ulaanbaatar",
+          "city": "Ulaanbaatar"
+        },
+        "employeeId": "OrthoNurse001",
+        "role": "Nurse",
+        "department": "Orthopedic"
+      },
+      {
+        "name": "Nurse Enkhbat Ganbold",
+        "email": "enkhbat.ganbold@gmail.com",
+        "password": "password",
+        "ph": "5267890234",
+        "dob": "1988-09-28",
+        "gender": "Male",
+        "address": {
+          "state": "Ulaanbaatar",
+          "city": "Ulaanbaatar"
+        },
+        "employeeId": "OrthoNurse002",
+        "role": "Nurse",
+        "department": "Orthopedic"
+      },
+      {
+        "name": "Nurse Tserendolgor Dorjpalam",
+        "email": "tserendolgor.dorjpalam@gmail.com",
+        "password": "password",
+        "ph": "5267890345",
+        "dob": "1992-01-10",
+        "gender": "Female",
+        "address": {
+          "state": "Ulaanbaatar",
+          "city": "Ulaanbaatar"
+        },
+        "employeeId": "OrthoNurse003",
+        "role": "Nurse",
+        "department": "Orthopedic"
+      },
+      {
+        "name": "Nurse Bat-Erdene Purev",
+        "email": "bat-erdene.purev@gmail.com",
+        "password": "password",
+        "ph": "5267890456",
+        "dob": "1987-07-03",
+        "gender": "Male",
+        "address": {
+          "state": "Ulaanbaatar",
+          "city": "Ulaanbaatar"
+        },
+        "employeeId": "OrthoNurse004",
+        "role": "Nurse",
+        "department": "Orthopedic"
+      },
+      {
+        "name": "Nurse Sarangerel Tsogt",
+        "email": "sarangerel.tsogt@gmail.com",
+        "password": "password",
+        "ph": "5267890567",
+        "dob": "1991-03-19",
+        "gender": "Female",
+        "address": {
+          "state": "Ulaanbaatar",
+          "city": "Ulaanbaatar"
+        },
+        "employeeId": "OrthoNurse005",
+        "role": "Nurse",
+        "department": "Orthopedic"
+      },
+      {
+        "name": "Nurse Batjargal Batsukh",
+        "email": "batjargal.batsukh@gmail.com",
+        "password": "password",
+        "ph": "5267890678",
+        "dob": "1989-11-25",
+        "gender": "Male",
+        "address": {
+          "state": "Ulaanbaatar",
+          "city": "Ulaanbaatar"
+        },
+        "employeeId": "OrthoNurse006",
+        "role": "Nurse",
+        "department": "Orthopedic"
+      },
+      {
+        "name": "Nurse Oyun-Erdene Jargalsaikhan",
+        "email": "oyun-erdene.jargalsaikhan@gmail.com",
+        "password": "password",
+        "ph": "5267890789",
+        "dob": "1993-08-07",
+        "gender": "Male",
+        "address": {
+          "state": "Ulaanbaatar",
+          "city": "Ulaanbaatar"
+        },
+        "employeeId": "OrthoNurse007",
+        "role": "Nurse",
+        "department": "Orthopedic"
+      },
+      {
+        "name": "Nurse Nyamdorj Nergui",
+        "email": "nyamdorj.nergui@gmail.com",
+        "password": "password",
+        "ph": "5267890890",
+        "dob": "1986-12-12",
+        "gender": "Male",
+        "address": {
+          "state": "Ulaanbaatar",
+          "city": "Ulaanbaatar"
+        },
+        "employeeId": "OrthoNurse008",
+        "role": "Nurse",
+        "department": "Orthopedic"
+      },
+      {
+        "name": "Nurse Ariunzaya Ganbaatar",
+        "email": "ariunzaya.ganbaatar@gmail.com",
+        "password": "password",
+        "ph": "5267890901",
+        "dob": "1990-04-30",
+        "gender": "Female",
+        "address": {
+          "state": "Ulaanbaatar",
+          "city": "Ulaanbaatar"
+        },
+        "employeeId": "OrthoNurse009",
+        "role": "Nurse",
+        "department": "Orthopedic"
+      },
+      {
+        "name": "Nurse Tumurbaatar Bayar",
+        "email": "tumurbaatar.bayar@gmail.com",
+        "password": "password",
+        "ph": "5267891012",
+        "dob": "1985-10-25",
+        "gender": "Male",
+        "address": {
+          "state": "Ulaanbaatar",
+          "city": "Ulaanbaatar"
+        },
+        "employeeId": "OrthoNurse010",
+        "role": "Nurse",
+        "department": "Orthopedic"
+      },
+      {
+        "name": "Nurse Erdenechuluun Tsedendamba",
+        "email": "erdenechuluun.tsedendamba@gmail.com",
+        "password": "password",
+        "ph": "5267891123",
+        "dob": "1988-02-15",
+        "gender": "Male",
+        "address": {
+          "state": "Ulaanbaatar",
+          "city": "Ulaanbaatar"
+        },
+        "employeeId": "OrthoNurse011",
+        "role": "Nurse",
+        "department": "Orthopedic"
+      },
+      {
+        "name": "Nurse Oyuntsetseg Jamsran",
+        "email": "oyuntsetseg.jamsran@gmail.com",
+        "password": "password",
+        "ph": "5267891234",
+        "dob": "1992-06-20",
+        "gender": "Female",
+        "address": {
+          "state": "Ulaanbaatar",
+          "city": "Ulaanbaatar"
+        },
+        "employeeId": "OrthoNurse012",
+        "role": "Nurse",
+        "department": "Orthopedic"
+      },
+      {
+        "name": "Nurse Batzorig Namsrai",
+        "email": "batzorig.namsrai@gmail.com",
+        "password": "password",
+        "ph": "5267891345",
+        "dob": "1987-12-05",
+        "gender": "Male",
+        "address": {
+          "state": "Ulaanbaatar",
+          "city": "Ulaanbaatar"
+        },
+        "employeeId": "OrthoNurse013",
+        "role": "Nurse",
+        "department": "Orthopedic"
+      },
+      {
+        "name": "Nurse Byambasuren Tumurbaatar",
+        "email": "byambasuren.tumurbaatar@gmail.com",
+        "password": "password",
+        "ph": "5267891456",
+        "dob": "1991-09-15",
+        "gender": "Male",
+        "address": {
+          "state": "Ulaanbaatar",
+          "city": "Ulaanbaatar"
+        },
+        "employeeId": "OrthoNurse014",
+        "role": "Nurse",
+        "department": "Orthopedic"
+      },
+      {
+        "name": "Nurse Munkhbat Batzorig",
+        "email": "munkhbat.batzorig@gmail.com",
+        "password": "password",
+        "ph": "5267891567",
+        "dob": "1986-03-25",
+        "gender": "Male",
+        "address": {
+          "state": "Ulaanbaatar",
+          "city": "Ulaanbaatar"
+        },
+        "employeeId": "OrthoNurse015",
+        "role": "Nurse",
+        "department": "Orthopedic"
+      },
+      {
+        "name": "Nurse Oyungerel Batkhuu",
+        "email": "oyungerel.batkhuu@gmail.com",
+        "password": "password",
+        "ph": "5267891678",
+        "dob": "1990-11-30",
+        "gender": "Female",
+        "address": {
+          "state": "Ulaanbaatar",
+          "city": "Ulaanbaatar"
+        },
+        "employeeId": "OrthoNurse016",
+        "role": "Nurse",
+        "department": "Orthopedic"
+      },
+      {
+        "name": "Nurse Amarjargal Nyamdavaa",
+        "email": "amarjargal.nyamdavaa@gmail.com",
+        "password": "password",
+        "ph": "5267891789",
+        "dob": "1988-04-10",
+        "gender": "Female",
+        "address": {
+          "state": "Ulaanbaatar",
+          "city": "Ulaanbaatar"
+        },
+        "employeeId": "OrthoNurse017",
+        "role": "Nurse",
+        "department": "Orthopedic"
+      },
+      {
+        "name": "Nurse Tuvshintugs Dorjsuren",
+        "email": "tuvshintugs.dorjsuren@gmail.com",
+        "password": "password",
+        "ph": "5267891890",
+        "dob": "1992-10-20",
+        "gender": "Male",
+        "address": {
+          "state": "Ulaanbaatar",
+          "city": "Ulaanbaatar"
+        },
+        "employeeId": "OrthoNurse018",
+        "role": "Nurse",
+        "department": "Orthopedic"
+      },
+      {
+        "name": "Nurse Tserendolgor Enkhtur",
+        "email": "tserendolgor.enkhtur@gmail.com",
+        "password": "password",
+        "ph": "5267891901",
+        "dob": "1989-05-05",
+        "gender": "Female",
+        "address": {
+          "state": "Ulaanbaatar",
+          "city": "Ulaanbaatar"
+        },
+        "employeeId": "OrthoNurse019",
+        "role": "Nurse",
+        "department": "Orthopedic"
+      },
+      {
+        "name": "Nurse Bayasgalan Ganbold",
+        "email": "bayasgalan.ganbold@gmail.com",
+        "password": "password",
+        "ph": "5267892012",
+        "dob": "1984-08-15",
+        "gender": "Male",
+        "address": {
+          "state": "Ulaanbaatar",
+          "city": "Ulaanbaatar"
+        },
+        "employeeId": "OrthoNurse020",
+        "role": "Nurse",
+        "department": "Orthopedic"
+      }
+    ]
+  }

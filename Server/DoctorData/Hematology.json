@@ -1,0 +1,304 @@
+{
+  "users": [
+    {
+      "name": "Dr. Emily Tan",
+      "email": "emily.tan@gmail.com",
+      "password": "password",
+      "ph": "61263541251",
+      "dob": "1979-05-20",
+      "gender": "Female",
+      "address": {
+        "state": "Singapore",
+        "city": "Singapore"
+      },
+      "registration": "SGD21013470",
+      "role": "Doctor",
+      "department": "Hematology"
+    },
+    {
+      "name": "Dr. Kevin Lim",
+      "email": "kevin.lim@gmail.com",
+      "password": "password",
+      "ph": "61263541252",
+      "dob": "1983-09-12",
+      "gender": "Male",
+      "address": {
+        "state": "Singapore",
+        "city": "Singapore"
+      },
+      "registration": "SGD21013471",
+      "role": "Doctor",
+      "department": "Hematology"
+    },
+    {
+      "name": "Dr. Rachel Ng",
+      "email": "rachel.ng@gmail.com",
+      "password": "password",
+      "ph": "61263541253",
+      "dob": "1985-11-08",
+      "gender": "Female",
+      "address": {
+        "state": "Singapore",
+        "city": "Singapore"
+      },
+      "registration": "SGD21013472",
+      "role": "Doctor",
+      "department": "Hematology"
+    },
+    {
+      "name": "Dr. Alex Wong",
+      "email": "alex.wong@gmail.com",
+      "password": "password",
+      "ph": "61263541254",
+      "dob": "1976-03-25",
+      "gender": "Male",
+      "address": {
+        "state": "Singapore",
+        "city": "Singapore"
+      },
+      "registration": "SGD21013473",
+      "role": "Doctor",
+      "department": "Hematology"
+    },
+    {
+      "name": "Dr. Sarah Koh",
+      "email": "sarah.koh@gmail.com",
+      "password": "password",
+      "ph": "61263541255",
+      "dob": "1982-08-17",
+      "gender": "Female",
+      "address": {
+        "state": "Singapore",
+        "city": "Singapore"
+      },
+      "registration": "SGD21013474",
+      "role": "Doctor",
+      "department": "Hematology"
+    },
+    {
+      "name": "Dr. Michael Tan",
+      "email": "michael.tan@gmail.com",
+      "password": "password",
+      "ph": "61263541256",
+      "dob": "1974-12-30",
+      "gender": "Male",
+      "address": {
+        "state": "Singapore",
+        "city": "Singapore"
+      },
+      "registration": "SGD21013475",
+      "role": "Doctor",
+      "department": "Hematology"
+    },
+    {
+      "name": "Dr. Samantha Lim",
+      "email": "samantha.lim@gmail.com",
+      "password": "password",
+      "ph": "61263541257",
+      "dob": "1987-06-18",
+      "gender": "Female",
+      "address": {
+        "state": "Singapore",
+        "city": "Singapore"
+      },
+      "registration": "SGD21013476",
+      "role": "Doctor",
+      "department": "Hematology"
+    },
+    {
+      "name": "Dr. Jason Ng",
+      "email": "jason.ng@gmail.com",
+      "password": "password",
+      "ph": "61263541258",
+      "dob": "1980-10-05",
+      "gender": "Male",
+      "address": {
+        "state": "Singapore",
+        "city": "Singapore"
+      },
+      "registration": "SGD21013477",
+      "role": "Doctor",
+      "department": "Hematology"
+    },
+    {
+      "name": "Dr. Jessica Lim",
+      "email": "jessica.lim@gmail.com",
+      "password": "password",
+      "ph": "61263541259",
+      "dob": "1978-04-14",
+      "gender": "Female",
+      "address": {
+        "state": "Singapore",
+        "city": "Singapore"
+      },
+      "registration": "SGD21013478",
+      "role": "Doctor",
+      "department": "Hematology"
+    },
+    {
+      "name": "Dr. William Tan",
+      "email": "william.tan@gmail.com",
+      "password": "password",
+      "ph": "61263541260",
+      "dob": "1984-02-22",
+      "gender": "Male",
+      "address": {
+        "state": "Singapore",
+        "city": "Singapore"
+      },
+      "registration": "SGD21013479",
+      "role": "Doctor",
+      "department": "Hematology"
+    },
+    {
+      "name": "Dr. Michelle Lee",
+      "email": "michelle.lee@gmail.com",
+      "password": "password",
+      "ph": "61263541261",
+      "dob": "1977-07-11",
+      "gender": "Female",
+      "address": {
+        "state": "Singapore",
+        "city": "Singapore"
+      },
+      "registration": "SGD21013480",
+      "role": "Doctor",
+      "department": "Hematology"
+    },
+    {
+      "name": "Dr. Nicholas Lim",
+      "email": "nicholas.lim@gmail.com",
+      "password": "password",
+      "ph": "61263541262",
+      "dob": "1981-11-03",
+      "gender": "Male",
+      "address": {
+        "state": "Singapore",
+        "city": "Singapore"
+      },
+      "registration": "SGD21013481",
+      "role": "Doctor",
+      "department": "Hematology"
+    },
+    {
+      "name": "Dr. Amanda Tan",
+      "email": "amanda.tan@gmail.com",
+      "password": "password",
+      "ph": "61263541263",
+      "dob": "1986-01-28",
+      "gender": "Female",
+      "address": {
+        "state": "Singapore",
+        "city": "Singapore"
+      },
+      "registration": "SGD21013482",
+      "role": "Doctor",
+      "department": "Hematology"
+    },
+    {
+      "name": "Dr. Ethan Lim",
+      "email": "ethan.lim@gmail.com",
+      "password": "password",
+      "ph": "61263541264",
+      "dob": "1979-09-05",
+      "gender": "Male",
+      "address": {
+        "state": "Singapore",
+        "city": "Singapore"
+      },
+      "registration": "SGD21013483",
+      "role": "Doctor",
+      "department": "Hematology"
+    },
+    {
+      "name": "Dr. Stephanie Koh",
+      "email": "stephanie.koh@gmail.com",
+      "password": "password",
+      "ph": "61263541265",
+      "dob": "1983-04-19",
+      "gender": "Female",
+      "address": {
+        "state": "Singapore",
+        "city": "Singapore"
+      },
+      "registration": "SGD21013484",
+      "role": "Doctor",
+      "department": "Hematology"
+    },
+    {
+      "name": "Dr. Samuel Tan",
+      "email": "samuel.tan@gmail.com",
+      "password": "password",
+      "ph": "61263541266",
+      "dob": "1975-12-15",
+      "gender": "Male",
+      "address": {
+        "state": "Singapore",
+        "city": "Singapore"
+      },
+      "registration": "SGD21013485",
+      "role": "Doctor",
+      "department": "Hematology"
+    },
+    {
+      "name": "Dr. Jasmine Lim",
+      "email": "jasmine.lim@gmail.com",
+      "password": "password",
+      "ph": "61263541267",
+      "dob": "1980-08-23",
+      "gender": "Female",
+      "address": {
+        "state": "Singapore",
+        "city": "Singapore"
+      },
+      "registration": "SGD21013486",
+      "role": "Doctor",
+      "department": "Hematology"
+    },
+    {
+      "name": "Dr. Daniel Ng",
+      "email": "daniel.ng@gmail.com",
+      "password": "password",
+      "ph": "61263541268",
+      "dob": "1984-03-12",
+      "gender": "Male",
+      "address": {
+        "state": "Singapore",
+        "city": "Singapore"
+      },
+      "registration": "SGD21013487",
+      "role": "Doctor",
+      "department": "Hematology"
+    },
+    {
+      "name": "Dr. Vanessa Tan",
+      "email": "vanessa.tan@gmail.com",
+      "password": "password",
+      "ph": "61263541269",
+      "dob": "1978-06-27",
+      "gender": "Female",
+      "address": {
+        "state": "Singapore",
+        "city": "Singapore"
+      },
+      "registration": "SGD21013488",
+      "role": "Doctor",
+      "department": "Hematology"
+    },
+    {
+      "name": "Dr. Eric Lim",
+      "email": "eric.lim@gmail.com",
+      "password": "password",
+      "ph": "61263541270",
+      "dob": "1982-02-09",
+      "gender": "Male",
+      "address": {
+        "state": "Singapore",
+        "city": "Singapore"
+      },
+      "registration": "SGD21013489",
+      "role": "Doctor",
+      "department": "Hematology"
+    }
+  ]
+}

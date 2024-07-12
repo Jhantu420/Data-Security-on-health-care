@@ -1,0 +1,304 @@
+{
+  "users": [
+    {
+      "name": "Priya Patel",
+      "email": "priyapatel@gmail.com",
+      "password": "Cardiologist123",
+      "ph": "9098765432",
+      "dob": "1987-03-12",
+      "gender": "Female",
+      "address": {
+        "state": "California",
+        "city": "Los Angeles"
+      },
+      "employeeId": "CardioNurse001",
+      "role": "Nurse",
+      "department": "Cardiology"
+    },
+    {
+      "name": "John Smith",
+      "email": "johnsmith@gmail.com",
+      "password": "Nurse@123",
+      "ph": "9098765433",
+      "dob": "1985-08-21",
+      "gender": "Male",
+      "address": {
+        "state": "California",
+        "city": "Los Angeles"
+      },
+      "employeeId": "CardioNurse002",
+      "role": "Nurse",
+      "department": "Cardiology"
+    },
+    {
+      "name": "Emily Johnson",
+      "email": "emilyjohnson@gmail.com",
+      "password": "Nurse@123",
+      "ph": "9098765434",
+      "dob": "1990-04-15",
+      "gender": "Female",
+      "address": {
+        "state": "California",
+        "city": "Los Angeles"
+      },
+      "employeeId": "CardioNurse003",
+      "role": "Nurse",
+      "department": "Cardiology"
+    },
+    {
+      "name": "Michael Davis",
+      "email": "michaeldavis123@gmail.com",
+      "password": "Nurse@123",
+      "ph": "9098765435",
+      "dob": "1983-11-30",
+      "gender": "Male",
+      "address": {
+        "state": "California",
+        "city": "Los Angeles"
+      },
+      "employeeId": "CardioNurse004",
+      "role": "Nurse",
+      "department": "Cardiology"
+    },
+    {
+      "name": "Samantha Brown",
+      "email": "samanthabrown123@gmail.com",
+      "password": "Nurse@123",
+      "ph": "9098765436",
+      "dob": "1989-06-25",
+      "gender": "Female",
+      "address": {
+        "state": "California",
+        "city": "Los Angeles"
+      },
+      "employeeId": "CardioNurse005",
+      "role": "Nurse",
+      "department": "Cardiology"
+    },
+    {
+      "name": "Daniel Martinez",
+      "email": "danielmartinez123@gmail.com",
+      "password": "Nurse@123",
+      "ph": "9098765437",
+      "dob": "1982-02-17",
+      "gender": "Male",
+      "address": {
+        "state": "California",
+        "city": "Los Angeles"
+      },
+      "employeeId": "CardioNurse006",
+      "role": "Nurse",
+      "department": "Cardiology"
+    },
+    {
+      "name": "Jessica Wilson",
+      "email": "jessicawilson123@gmail.com",
+      "password": "Nurse@123",
+      "ph": "9098765438",
+      "dob": "1986-09-10",
+      "gender": "Female",
+      "address": {
+        "state": "California",
+        "city": "Los Angeles"
+      },
+      "employeeId": "CardioNurse007",
+      "role": "Nurse",
+      "department": "Cardiology"
+    },
+    {
+      "name": "David Garcia",
+      "email": "davidgarcia123@gmail.com",
+      "password": "Nurse@123",
+      "ph": "9098765439",
+      "dob": "1984-05-08",
+      "gender": "Male",
+      "address": {
+        "state": "California",
+        "city": "Los Angeles"
+      },
+      "employeeId": "CardioNurse008",
+      "role": "Nurse",
+      "department": "Cardiology"
+    },
+    {
+      "name": "Amanda Rodriguez",
+      "email": "amandarodriguez123@gmail.com",
+      "password": "Nurse@123",
+      "ph": "9098765440",
+      "dob": "1988-12-20",
+      "gender": "Female",
+      "address": {
+        "state": "California",
+        "city": "Los Angeles"
+      },
+      "employeeId": "CardioNurse009",
+      "role": "Nurse",
+      "department": "Cardiology"
+    },
+    {
+      "name": "Christopher Lee",
+      "email": "christopherlee123@gmail.com",
+      "password": "Nurse@123",
+      "ph": "9098765441",
+      "dob": "1981-03-17",
+      "gender": "Male",
+      "address": {
+        "state": "California",
+        "city": "Los Angeles"
+      },
+      "employeeId": "CardioNurse010",
+      "role": "Nurse",
+      "department": "Cardiology"
+    },
+    {
+      "name": "Megan Taylor",
+      "email": "megantaylor123@gmail.com",
+      "password": "Nurse@123",
+      "ph": "9098765442",
+      "dob": "1985-07-29",
+      "gender": "Female",
+      "address": {
+        "state": "California",
+        "city": "Los Angeles"
+      },
+      "employeeId": "CardioNurse011",
+      "role": "Nurse",
+      "department": "Cardiology"
+    },
+    {
+      "name": "Brandon Harris",
+      "email": "brandonharris123@gmail.com",
+      "password": "Nurse@123",
+      "ph": "9098765443",
+      "dob": "1979-11-14",
+      "gender": "Male",
+      "address": {
+        "state": "California",
+        "city": "Los Angeles"
+      },
+      "employeeId": "CardioNurse012",
+      "role": "Nurse",
+      "department": "Cardiology"
+    },
+    {
+      "name": "Rachel Martinez",
+      "email": "rachelmartinez123@gmail.com",
+      "password": "Nurse@123",
+      "ph": "9098765444",
+      "dob": "1992-02-03",
+      "gender": "Female",
+      "address": {
+        "state": "California",
+        "city": "Los Angeles"
+      },
+      "employeeId": "CardioNurse013",
+      "role": "Nurse",
+      "department": "Cardiology"
+    },
+    {
+      "name": "Tyler Jackson",
+      "email": "tylerjackson123@gmail.com",
+      "password": "Nurse@123",
+      "ph": "9098765445",
+      "dob": "1983-09-18",
+      "gender": "Male",
+      "address": {
+        "state": "California",
+        "city": "Los Angeles"
+      },
+      "employeeId": "CardioNurse014",
+      "role": "Nurse",
+      "department": "Cardiology"
+    },
+    {
+      "name": "Isabella Nguyen",
+      "email": "isabellanguyen123@gmail.com",
+      "password": "Nurse@123",
+      "ph": "9098765446",
+      "dob": "1987-06-12",
+      "gender": "Female",
+      "address": {
+        "state": "California",
+        "city": "Los Angeles"
+      },
+      "employeeId": "CardioNurse015",
+      "role": "Nurse",
+      "department": "Cardiology"
+    },
+    {
+      "name": "William Anderson",
+      "email": "williamanderson123@gmail.com",
+      "password": "Nurse@123",
+      "ph": "9098765447",
+      "dob": "1980-09-25",
+      "gender": "Male",
+      "address": {
+        "state": "California",
+        "city": "Los Angeles"
+      },
+      "employeeId": "CardioNurse016",
+      "role": "Nurse",
+      "department": "Cardiology"
+    },
+    {
+      "name": "Sophia Rivera",
+      "email": "sophiarivera123@gmail.com",
+      "password": "Nurse@123",
+      "ph": "9098765448",
+      "dob": "1984-12-15",
+      "gender": "Female",
+      "address": {
+        "state": "California",
+        "city": "Los Angeles"
+      },
+      "employeeId": "CardioNurse017",
+      "role": "Nurse",
+      "department": "Cardiology"
+    },
+    {
+      "name": "Alexander Kim",
+      "email": "alexanderkim123@gmail.com",
+      "password": "Nurse@123",
+      "ph": "9098765449",
+      "dob": "1982-03-18",
+      "gender": "Male",
+      "address": {
+        "state": "California",
+        "city": "Los Angeles"
+      },
+      "employeeId": "CardioNurse018",
+      "role": "Nurse",
+      "department": "Cardiology"
+    },
+    {
+      "name": "Olivia Garcia",
+      "email": "oliviagarcia123@gmail.com",
+      "password": "Nurse@123",
+      "ph": "9098765450",
+      "dob": "1989-05-30",
+      "gender": "Female",
+      "address": {
+        "state": "California",
+        "city": "Los Angeles"
+      },
+      "employeeId": "CardioNurse019",
+      "role": "Nurse",
+      "department": "Cardiology"
+    },
+    {
+      "name": "Daniel Martinez",
+      "email": "danielmartinez124@gmail.com",
+      "password": "Nurse@123",
+      "ph": "9098765451",
+      "dob": "1981-08-22",
+      "gender": "Male",
+      "address": {
+        "state": "California",
+        "city": "Los Angeles"
+      },
+      "employeeId": "CardioNurse020",
+      "role": "Nurse",
+      "department": "Cardiology"
+    }
+  ]
+}

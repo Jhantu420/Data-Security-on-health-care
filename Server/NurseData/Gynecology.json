@@ -1,0 +1,304 @@
+{
+  "users": [
+    {
+      "name": "Sara Khan",
+      "email": "sarakhannurse@gmail.com",
+      "password": "password",
+      "ph": "25098765432",
+      "dob": "1990-05-15",
+      "gender": "Female",
+      "address": {
+        "state": "Kabul",
+        "city": "Kabul"
+      },
+      "employeeId": "GynNurse001",
+      "role": "Nurse",
+      "department": "Gynecology"
+    },
+    {
+      "name": "Nadia Ahmadzai",
+      "email": "nadiaahmadzai@gmail.com",
+      "password": "password",
+      "ph": "25098765433",
+      "dob": "1988-09-20",
+      "gender": "Female",
+      "address": {
+        "state": "Nangarhar",
+        "city": "Jalalabad"
+      },
+      "employeeId": "GynNurse002",
+      "role": "Nurse",
+      "department": "Gynecology"
+    },
+    {
+      "name": "Laila Yousufzai",
+      "email": "lailayousufzai@gmail.com",
+      "password": "password",
+      "ph": "25098765434",
+      "dob": "1985-12-10",
+      "gender": "Female",
+      "address": {
+        "state": "Balkh",
+        "city": "Mazar-i-Sharif"
+      },
+      "employeeId": "GynNurse003",
+      "role": "Nurse",
+      "department": "Gynecology"
+    },
+    {
+      "name": "Zahra Wardak",
+      "email": "zahrawardak@gmail.com",
+      "password": "password",
+      "ph": "25098765435",
+      "dob": "1987-07-25",
+      "gender": "Female",
+      "address": {
+        "state": "Kandahar",
+        "city": "Kandahar"
+      },
+      "employeeId": "GynNurse004",
+      "role": "Nurse",
+      "department": "Gynecology"
+    },
+    {
+      "name": "Shirin Popal",
+      "email": "shirinpopal@gmail.com",
+      "password": "password",
+      "ph": "25098765436",
+      "dob": "1992-03-18",
+      "gender": "Female",
+      "address": {
+        "state": "Herat",
+        "city": "Herat"
+      },
+      "employeeId": "GynNurse005",
+      "role": "Nurse",
+      "department": "Gynecology"
+    },
+    {
+      "name": "Fatemeh Azizi",
+      "email": "fatemehazizi@gmail.com",
+      "password": "password",
+      "ph": "25098765437",
+      "dob": "1991-08-22",
+      "gender": "Female",
+      "address": {
+        "state": "Ghazni",
+        "city": "Ghazni"
+      },
+      "employeeId": "GynNurse006",
+      "role": "Nurse",
+      "department": "Gynecology"
+    },
+    {
+      "name": "Roya Qadiri",
+      "email": "royaqadiri@gmail.com",
+      "password": "password",
+      "ph": "25098765438",
+      "dob": "1989-11-30",
+      "gender": "Female",
+      "address": {
+        "state": "Khost",
+        "city": "Khost"
+      },
+      "employeeId": "GynNurse007",
+      "role": "Nurse",
+      "department": "Gynecology"
+    },
+    {
+      "name": "Marzia Wahidi",
+      "email": "marziawahidi@gmail.com",
+      "password": "password",
+      "ph": "25098765439",
+      "dob": "1993-06-05",
+      "gender": "Female",
+      "address": {
+        "state": "Bamyan",
+        "city": "Bamyan"
+      },
+      "employeeId": "GynNurse008",
+      "role": "Nurse",
+      "department": "Gynecology"
+    },
+    {
+      "name": "Hafsa Hamidi",
+      "email": "hafsa.hamidi@gmail.com",
+      "password": "password",
+      "ph": "25098765440",
+      "dob": "1990-01-12",
+      "gender": "Female",
+      "address": {
+        "state": "Baghlan",
+        "city": "Baghlan"
+      },
+      "employeeId": "GynNurse009",
+      "role": "Nurse",
+      "department": "Gynecology"
+    },
+    {
+      "name": "Gulalai Rahmani",
+      "email": "gulalai.rahmani@gmail.com",
+      "password": "password",
+      "ph": "25098765441",
+      "dob": "1988-04-28",
+      "gender": "Female",
+      "address": {
+        "state": "Kunduz",
+        "city": "Kunduz"
+      },
+      "employeeId": "GynNurse010",
+      "role": "Nurse",
+      "department": "Gynecology"
+    },
+    {
+      "name": "Zarmina Safi",
+      "email": "zarminasafi@gmail.com",
+      "password": "password",
+      "ph": "25098765442",
+      "dob": "1986-02-14",
+      "gender": "Female",
+      "address": {
+        "state": "Badakhshan",
+        "city": "Faizabad"
+      },
+      "employeeId": "GynNurse011",
+      "role": "Nurse",
+      "department": "Gynecology"
+    },
+    {
+      "name": "Najiba Rahim",
+      "email": "najibarahim@gmail.com",
+      "password": "password",
+      "ph": "25098765443",
+      "dob": "1989-10-05",
+      "gender": "Female",
+      "address": {
+        "state": "Farah",
+        "city": "Farah"
+      },
+      "employeeId": "GynNurse012",
+      "role": "Nurse",
+      "department": "Gynecology"
+    },
+    {
+      "name": "Parwana Ahmadi",
+      "email": "parwanaahmadi@gmail.com",
+      "password": "password",
+      "ph": "25098765444",
+      "dob": "1992-07-20",
+      "gender": "Female",
+      "address": {
+        "state": "Helmand",
+        "city": "Lashkar Gah"
+      },
+      "employeeId": "GynNurse013",
+      "role": "Nurse",
+      "department": "Gynecology"
+    },
+    {
+      "name": "Lida Habibi",
+      "email": "lidahabibi@gmail.com",
+      "password": "password",
+      "ph": "25098765445",
+      "dob": "1987-04-15",
+      "gender": "Female",
+      "address": {
+        "state": "Jowzjan",
+        "city": "Sheberghan"
+      },
+      "employeeId": "GynNurse014",
+      "role": "Nurse",
+      "department": "Gynecology"
+    },
+    {
+      "name": "Mahbuba Hamidi",
+      "email": "mahbubahamidi@gmail.com",
+      "password": "password",
+      "ph": "25098765446",
+      "dob": "1990-11-28",
+      "gender": "Female",
+      "address": {
+        "state": "Kapisa",
+        "city": "Mahmud-i-Raqi"
+      },
+      "employeeId": "GynNurse015",
+      "role": "Nurse",
+      "department": "Gynecology"
+    },
+    {
+      "name": "Fahima Gul",
+      "email": "fahimagul@gmail.com",
+      "password": "password",
+      "ph": "25098765447",
+      "dob": "1988-08-10",
+      "gender": "Female",
+      "address": {
+        "state": "Logar",
+        "city": "Pul-i-Alam"
+      },
+      "employeeId": "GynNurse016",
+      "role": "Nurse",
+      "department": "Gynecology"
+    },
+    {
+      "name": "Razia Karimi",
+      "email": "raziakarimi@gmail.com",
+      "password": "password",
+      "ph": "25098765448",
+      "dob": "1991-06-25",
+      "gender": "Female",
+      "address": {
+        "state": "Panjshir",
+        "city": "Bazarak"
+      },
+      "employeeId": "GynNurse017",
+      "role": "Nurse",
+      "department": "Gynecology"
+    },
+    {
+      "name": "Marjan Yaqubi",
+      "email": "marjanyaqubi@gmail.com",
+      "password": "password",
+      "ph": "25098765449",
+      "dob": "1985-01-30",
+      "gender": "Female",
+      "address": {
+        "state": "Parwan",
+        "city": "Charikar"
+      },
+      "employeeId": "GynNurse018",
+      "role": "Nurse",
+      "department": "Gynecology"
+    },
+    {
+      "name": "Safiya Noori",
+      "email": "safiyanoori@gmail.com",
+      "password": "password",
+      "ph": "25098765450",
+      "dob": "1993-09-12",
+      "gender": "Female",
+      "address": {
+        "state": "Samangan",
+        "city": "Aybak"
+      },
+      "employeeId": "GynNurse019",
+      "role": "Nurse",
+      "department": "Gynecology"
+    },
+    {
+      "name": "Latifa Wardak",
+      "email": "latifawardak@gmail.com",
+      "password": "password",
+      "ph": "25098765451",
+      "dob": "1986-12-05",
+      "gender": "Female",
+      "address": {
+        "state": "Sar-e Pol",
+        "city": "Sar-e Pol"
+      },
+      "employeeId": "GynNurse020",
+      "role": "Nurse",
+      "department": "Gynecology"
+    }
+  ]
+}

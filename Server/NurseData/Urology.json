@@ -1,0 +1,304 @@
+{
+  "users": [
+    {
+      "name": "Ananya Sharma",
+      "email": "ananya.sharma@gmail.com",
+      "password": "password",
+      "ph": "6590012345",
+      "dob": "1990-05-15",
+      "gender": "Female",
+      "address": {
+        "state": "Maharashtra",
+        "city": "Mumbai"
+      },
+      "employeeId": "UroNurse001",
+      "role": "Nurse",
+      "department": "Urology"
+    },
+    {
+      "name": "Rajesh Singh",
+      "email": "rajesh.singh@gmail.com",
+      "password": "password",
+      "ph": "6590012346",
+      "dob": "1985-09-21",
+      "gender": "Male",
+      "address": {
+        "state": "Uttar Pradesh",
+        "city": "Lucknow"
+      },
+      "employeeId": "UroNurse002",
+      "role": "Nurse",
+      "department": "Urology"
+    },
+    {
+      "name": "Neha Patel",
+      "email": "neha.patel@gmail.com",
+      "password": "password",
+      "ph": "6590012347",
+      "dob": "1988-12-10",
+      "gender": "Female",
+      "address": {
+        "state": "Gujarat",
+        "city": "Ahmedabad"
+      },
+      "employeeId": "UroNurse003",
+      "role": "Nurse",
+      "department": "Urology"
+    },
+    {
+      "name": "Amit Kumar",
+      "email": "amit.kumar@gmail.com",
+      "password": "password",
+      "ph": "6590012348",
+      "dob": "1992-04-28",
+      "gender": "Male",
+      "address": {
+        "state": "Karnataka",
+        "city": "Bangalore"
+      },
+      "employeeId": "UroNurse004",
+      "role": "Nurse",
+      "department": "Urology"
+    },
+    {
+      "name": "Pooja Gupta",
+      "email": "pooja.gupta@gmail.com",
+      "password": "password",
+      "ph": "6590012349",
+      "dob": "1986-07-17",
+      "gender": "Female",
+      "address": {
+        "state": "Delhi",
+        "city": "New Delhi"
+      },
+      "employeeId": "UroNurse005",
+      "role": "Nurse",
+      "department": "Urology"
+    },
+    {
+      "name": "Rahul Sharma",
+      "email": "rahul.sharma@gmail.com",
+      "password": "password",
+      "ph": "6590012350",
+      "dob": "1991-02-08",
+      "gender": "Male",
+      "address": {
+        "state": "Rajasthan",
+        "city": "Jaipur"
+      },
+      "employeeId": "UroNurse006",
+      "role": "Nurse",
+      "department": "Urology"
+    },
+    {
+      "name": "Kavita Singh",
+      "email": "kavita.singh@gmail.com",
+      "password": "password",
+      "ph": "6590012351",
+      "dob": "1987-11-25",
+      "gender": "Female",
+      "address": {
+        "state": "Punjab",
+        "city": "Chandigarh"
+      },
+      "employeeId": "UroNurse007",
+      "role": "Nurse",
+      "department": "Urology"
+    },
+    {
+      "name": "Ravi Verma",
+      "email": "ravi.verma@gmail.com",
+      "password": "password",
+      "ph": "6590012352",
+      "dob": "1993-06-14",
+      "gender": "Male",
+      "address": {
+        "state": "Madhya Pradesh",
+        "city": "Bhopal"
+      },
+      "employeeId": "UroNurse008",
+      "role": "Nurse",
+      "department": "Urology"
+    },
+    {
+      "name": "Meera Gupta",
+      "email": "meera.gupta@gmail.com",
+      "password": "password",
+      "ph": "6590012353",
+      "dob": "1989-10-31",
+      "gender": "Female",
+      "address": {
+        "state": "Haryana",
+        "city": "Gurgaon"
+      },
+      "employeeId": "UroNurse009",
+      "role": "Nurse",
+      "department": "Urology"
+    },
+    {
+      "name": "Sanjay Patel",
+      "email": "sanjay.patel@gmail.com",
+      "password": "password",
+      "ph": "6590012354",
+      "dob": "1984-03-19",
+      "gender": "Male",
+      "address": {
+        "state": "Bihar",
+        "city": "Patna"
+      },
+      "employeeId": "UroNurse010",
+      "role": "Nurse",
+      "department": "Urology"
+    },
+    {
+      "name": "Swati Sharma",
+      "email": "swati.sharma@gmail.com",
+      "password": "password",
+      "ph": "6590012355",
+      "dob": "1990-08-27",
+      "gender": "Female",
+      "address": {
+        "state": "Uttarakhand",
+        "city": "Dehradun"
+      },
+      "employeeId": "UroNurse011",
+      "role": "Nurse",
+      "department": "Urology"
+    },
+    {
+      "name": "Deepak Kumar",
+      "email": "deepak.kumar@gmail.com",
+      "password": "password",
+      "ph": "6590012356",
+      "dob": "1986-01-22",
+      "gender": "Male",
+      "address": {
+        "state": "Odisha",
+        "city": "Bhubaneswar"
+      },
+      "employeeId": "UroNurse012",
+      "role": "Nurse",
+      "department": "Urology"
+    },
+    {
+      "name": "Nisha Reddy",
+      "email": "nisha.reddy@gmail.com",
+      "password": "password",
+      "ph": "6590012357",
+      "dob": "1988-04-09",
+      "gender": "Female",
+      "address": {
+        "state": "Telangana",
+        "city": "Hyderabad"
+      },
+      "employeeId": "UroNurse013",
+      "role": "Nurse",
+      "department": "Urology"
+    },
+    {
+      "name": "Vikram Singh",
+      "email": "vikram.singh@gmail.com",
+      "password": "password",
+      "ph": "6590012358",
+      "dob": "1985-07-06",
+      "gender": "Male",
+      "address": {
+        "state": "West Bengal",
+        "city": "Kolkata"
+      },
+      "employeeId": "UroNurse014",
+      "role": "Nurse",
+      "department": "Urology"
+    },
+    {
+      "name": "Sneha Sharma",
+      "email": "sneha.sharma@gmail.com",
+      "password": "password",
+      "ph": "6590012359",
+      "dob": "1991-12-03",
+      "gender": "Female",
+      "address": {
+        "state": "Assam",
+        "city": "Guwahati"
+      },
+      "employeeId": "UroNurse015",
+      "role": "Nurse",
+      "department": "Urology"
+    },
+    {
+      "name": "Ajay Patel",
+      "email": "ajay.patel@gmail.com",
+      "password": "password",
+      "ph": "6590012360",
+      "dob": "1987-02-18",
+      "gender": "Male",
+      "address": {
+        "state": "Tamil Nadu",
+        "city": "Chennai"
+      },
+      "employeeId": "UroNurse016",
+      "role": "Nurse",
+      "department": "Urology"
+    },
+    {
+      "name": "Priya Reddy",
+      "email": "priya.reddy@gmail.com",
+      "password": "password",
+      "ph": "6590012361",
+      "dob": "1993-09-14",
+      "gender": "Female",
+      "address": {
+        "state": "Kerala",
+        "city": "Kochi"
+      },
+      "employeeId": "UroNurse017",
+      "role": "Nurse",
+      "department": "Urology"
+    },
+    {
+      "name": "Arjun Singh",
+      "email": "arjun.singh@gmail.com",
+      "password": "password",
+      "ph": "6590012362",
+      "dob": "1989-06-30",
+      "gender": "Male",
+      "address": {
+        "state": "Andhra Pradesh",
+        "city": "Vijayawada"
+      },
+      "employeeId": "UroNurse018",
+      "role": "Nurse",
+      "department": "Urology"
+    },
+    {
+      "name": "Riya Patel",
+      "email": "riya.patel@gmail.com",
+      "password": "password",
+      "ph": "6590012363",
+      "dob": "1992-11-27",
+      "gender": "Female",
+      "address": {
+        "state": "Puducherry",
+        "city": "Puducherry"
+      },
+      "employeeId": "UroNurse019",
+      "role": "Nurse",
+      "department": "Urology"
+    },
+    {
+      "name": "Kiran Kumar",
+      "email": "kiran.kumar@gmail.com",
+      "password": "password",
+      "ph": "6590012364",
+      "dob": "1988-08-08",
+      "gender": "Male",
+      "address": {
+        "state": "Goa",
+        "city": "Panaji"
+      },
+      "employeeId": "UroNurse020",
+      "role": "Nurse",
+      "department": "Urology"
+    }
+  ]
+}

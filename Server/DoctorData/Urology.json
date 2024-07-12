@@ -1,0 +1,304 @@
+{
+  "users": [
+    {
+      "name": "Dr. Ivan Petrov",
+      "email": "ivan.petrov@gmail.com",
+      "password": "password",
+      "ph": "7894561230",
+      "dob": "1978-09-21",
+      "gender": "Male",
+      "address": {
+        "state": "Moscow",
+        "city": "Moscow"
+      },
+      "registration": "RUS20010001",
+      "role": "Doctor",
+      "department": "Urology"
+    },
+    {
+      "name": "Dr. Maria Ivanova",
+      "email": "maria.ivanova@gmail.com",
+      "password": "password",
+      "ph": "7894561231",
+      "dob": "1985-05-12",
+      "gender": "Female",
+      "address": {
+        "state": "Saint Petersburg",
+        "city": "Saint Petersburg"
+      },
+      "registration": "RUS20010002",
+      "role": "Doctor",
+      "department": "Urology"
+    },
+    {
+      "name": "Dr. Sergei Smirnov",
+      "email": "sergei.smirnov@gmail.com",
+      "password": "password",
+      "ph": "7894561232",
+      "dob": "1980-12-03",
+      "gender": "Male",
+      "address": {
+        "state": "Novosibirsk Oblast",
+        "city": "Novosibirsk"
+      },
+      "registration": "RUS20010003",
+      "role": "Doctor",
+      "department": "Urology"
+    },
+    {
+      "name": "Dr. Anna Sokolova",
+      "email": "anna.sokolova@gmail.com",
+      "password": "password",
+      "ph": "7894561233",
+      "dob": "1987-03-28",
+      "gender": "Female",
+      "address": {
+        "state": "Sverdlovsk Oblast",
+        "city": "Yekaterinburg"
+      },
+      "registration": "RUS20010004",
+      "role": "Doctor",
+      "department": "Urology"
+    },
+    {
+      "name": "Dr. Dmitri Ivanov",
+      "email": "dmitri.ivanov@gmail.com",
+      "password": "password",
+      "ph": "7894561234",
+      "dob": "1976-11-15",
+      "gender": "Male",
+      "address": {
+        "state": "Chelyabinsk Oblast",
+        "city": "Chelyabinsk"
+      },
+      "registration": "RUS20010005",
+      "role": "Doctor",
+      "department": "Urology"
+    },
+    {
+      "name": "Dr. Olga Kuznetsova",
+      "email": "olga.kuznetsova@gmail.com",
+      "password": "password",
+      "ph": "7894561235",
+      "dob": "1984-07-19",
+      "gender": "Female",
+      "address": {
+        "state": "Krasnoyarsk Krai",
+        "city": "Krasnoyarsk"
+      },
+      "registration": "RUS20010006",
+      "role": "Doctor",
+      "department": "Urology"
+    },
+    {
+      "name": "Dr. Vladimir Orlov",
+      "email": "vladimir.orlov@gmail.com",
+      "password": "password",
+      "ph": "7894561236",
+      "dob": "1979-04-30",
+      "gender": "Male",
+      "address": {
+        "state": "Tatarstan Republic",
+        "city": "Kazan"
+      },
+      "registration": "RUS20010007",
+      "role": "Doctor",
+      "department": "Urology"
+    },
+    {
+      "name": "Dr. Natalia Smirnova",
+      "email": "natalia.smirnova@gmail.com",
+      "password": "password",
+      "ph": "7894561237",
+      "dob": "1983-08-22",
+      "gender": "Female",
+      "address": {
+        "state": "Samara Oblast",
+        "city": "Samara"
+      },
+      "registration": "RUS20010008",
+      "role": "Doctor",
+      "department": "Urology"
+    },
+    {
+      "name": "Dr. Mikhail Petrov",
+      "email": "mikhail.petrov@gmail.com",
+      "password": "password",
+      "ph": "7894561238",
+      "dob": "1975-01-09",
+      "gender": "Male",
+      "address": {
+        "state": "Omsk Oblast",
+        "city": "Omsk"
+      },
+      "registration": "RUS20010009",
+      "role": "Doctor",
+      "department": "Urology"
+    },
+    {
+      "name": "Dr. Ekaterina Ivanova",
+      "email": "ekaterina.ivanova@gmail.com",
+      "password": "password",
+      "ph": "7894561239",
+      "dob": "1982-06-17",
+      "gender": "Female",
+      "address": {
+        "state": "Rostov Oblast",
+        "city": "Rostov-on-Don"
+      },
+      "registration": "RUS20010010",
+      "role": "Doctor",
+      "department": "Urology"
+    },
+    {
+      "name": "Dr. Roman Sokolov",
+      "email": "roman.sokolov@gmail.com",
+      "password": "password",
+      "ph": "7894561240",
+      "dob": "1977-02-25",
+      "gender": "Male",
+      "address": {
+        "state": "Krasnodar Krai",
+        "city": "Krasnodar"
+      },
+      "registration": "RUS20010011",
+      "role": "Doctor",
+      "department": "Urology"
+    },
+    {
+      "name": "Dr. Elena Voronova",
+      "email": "elena.voronova@gmail.com",
+      "password": "password",
+      "ph": "7894561241",
+      "dob": "1986-10-11",
+      "gender": "Female",
+      "address": {
+        "state": "Tula Oblast",
+        "city": "Tula"
+      },
+      "registration": "RUS20010012",
+      "role": "Doctor",
+      "department": "Urology"
+    },
+    {
+      "name": "Dr. Antonina Ivanova",
+      "email": "antonina.ivanova2@gmail.com",
+      "password": "password",
+      "ph": "7894561242",
+      "dob": "1980-05-07",
+      "gender": "Female",
+      "address": {
+        "state": "Orenburg Oblast",
+        "city": "Orenburg"
+      },
+      "registration": "RUS20010013",
+      "role": "Doctor",
+      "department": "Urology"
+    },
+    {
+      "name": "Dr. Igor Popov",
+      "email": "igor.popov2@gmail.com",
+      "password": "password",
+      "ph": "7894561243",
+      "dob": "1974-08-14",
+      "gender": "Male",
+      "address": {
+        "state": "Kemerovo Oblast",
+        "city": "Kemerovo"
+      },
+      "registration": "RUS20010014",
+      "role": "Doctor",
+      "department": "Urology"
+    },
+    {
+      "name": "Dr. Natalia Ivanova",
+      "email": "natalia.ivanova2@gmail.com",
+      "password": "password",
+      "ph": "7894561244",
+      "dob": "1983-03-19",
+      "gender": "Female",
+      "address": {
+        "state": "Volgograd Oblast",
+        "city": "Volgograd"
+      },
+      "registration": "RUS20010015",
+      "role": "Doctor",
+      "department": "Urology"
+    },
+    {
+      "name": "Dr. Sergei Volkov",
+      "email": "sergei.volkov2@gmail.com",
+      "password": "password",
+      "ph": "7894561245",
+      "dob": "1979-12-08",
+      "gender": "Male",
+      "address": {
+        "state": "Tyumen Oblast",
+        "city": "Tyumen"
+      },
+      "registration": "RUS20010016",
+      "role": "Doctor",
+      "department": "Urology"
+    },
+    {
+      "name": "Dr. Yulia Ivanova",
+      "email": "yulia.ivanova2@gmail.com",
+      "password": "password",
+      "ph": "7894561246",
+      "dob": "1981-07-26",
+      "gender": "Female",
+      "address": {
+        "state": "Ulyanovsk Oblast",
+        "city": "Ulyanovsk"
+      },
+      "registration": "RUS20010017",
+      "role": "Doctor",
+      "department": "Urology"
+    },
+    {
+      "name": "Dr. Andrei Kuznetsov",
+      "email": "andrei.kuznetsov2@gmail.com",
+      "password": "password",
+      "ph": "7894561247",
+      "dob": "1978-04-03",
+      "gender": "Male",
+      "address": {
+        "state": "Primorsky Krai",
+        "city": "Vladivostok"
+      },
+      "registration": "RUS20010018",
+      "role": "Doctor",
+      "department": "Urology"
+    },
+    {
+      "name": "Dr. Svetlana Petrova",
+      "email": "svetlana.petrova2@gmail.com",
+      "password": "password",
+      "ph": "7894561248",
+      "dob": "1984-09-30",
+      "gender": "Female",
+      "address": {
+        "state": "Irkutsk Oblast",
+        "city": "Irkutsk"
+      },
+      "registration": "RUS20010019",
+      "role": "Doctor",
+      "department": "Urology"
+    },
+    {
+      "name": "Dr. Alexei Ivanov",
+      "email": "alexei.ivanov2@gmail.com",
+      "password": "password",
+      "ph": "7894561249",
+      "dob": "1976-06-22",
+      "gender": "Male",
+      "address": {
+        "state": "Novgorod Oblast",
+        "city": "Veliky Novgorod"
+      },
+      "registration": "RUS20010020",
+      "role": "Doctor",
+      "department": "Urology"
+    }
+  ]
+}

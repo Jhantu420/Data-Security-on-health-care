@@ -1,0 +1,304 @@
+{
+  "users": [
+    {
+      "name": "Dr. Ahmed Khan",
+      "email": "ahmed.khan@gmail.com",
+      "password": "password",
+      "ph": "923001234567",
+      "dob": "1978-09-23",
+      "gender": "Male",
+      "address": {
+        "state": "Punjab",
+        "city": "Lahore"
+      },
+      "registration": "PKD20033470",
+      "role": "Doctor",
+      "department": "Neurology"
+    },
+    {
+      "name": "Dr. Fatima Ali",
+      "email": "fatima.ali@gmail.com",
+      "password": "password",
+      "ph": "923451234567",
+      "dob": "1984-05-15",
+      "gender": "Female",
+      "address": {
+        "state": "Sindh",
+        "city": "Karachi"
+      },
+      "registration": "PKD20033471",
+      "role": "Doctor",
+      "department": "Neurology"
+    },
+    {
+      "name": "Dr. Hassan Malik",
+      "email": "hassan.malik@gmail.com",
+      "password": "password",
+      "ph": "923201234567",
+      "dob": "1982-11-07",
+      "gender": "Male",
+      "address": {
+        "state": "Khyber Pakhtunkhwa",
+        "city": "Peshawar"
+      },
+      "registration": "PKD20033472",
+      "role": "Doctor",
+      "department": "Neurology"
+    },
+    {
+      "name": "Dr. Ayesha Khan",
+      "email": "ayesha.khan@gmail.com",
+      "password": "password",
+      "ph": "923301234567",
+      "dob": "1987-03-29",
+      "gender": "Female",
+      "address": {
+        "state": "Balochistan",
+        "city": "Quetta"
+      },
+      "registration": "PKD20033473",
+      "role": "Doctor",
+      "department": "Neurology"
+    },
+    {
+      "name": "Dr. Usman Mahmood",
+      "email": "usman.mahmood@gmail.com",
+      "password": "password",
+      "ph": "923801234567",
+      "dob": "1976-12-18",
+      "gender": "Male",
+      "address": {
+        "state": "Gilgit-Baltistan",
+        "city": "Gilgit"
+      },
+      "registration": "PKD20033474",
+      "role": "Doctor",
+      "department": "Neurology"
+    },
+    {
+      "name": "Dr. Sana Akhtar",
+      "email": "sana.akhtar@gmail.com",
+      "password": "password",
+      "ph": "923701234567",
+      "dob": "1989-08-04",
+      "gender": "Female",
+      "address": {
+        "state": "Azad Kashmir",
+        "city": "Muzaffarabad"
+      },
+      "registration": "PKD20033475",
+      "role": "Doctor",
+      "department": "Neurology"
+    },
+    {
+      "name": "Dr. Bilal Ahmed",
+      "email": "bilal.ahmed@gmail.com",
+      "password": "password",
+      "ph": "923901234567",
+      "dob": "1981-02-10",
+      "gender": "Male",
+      "address": {
+        "state": "Punjab",
+        "city": "Rawalpindi"
+      },
+      "registration": "PKD20033476",
+      "role": "Doctor",
+      "department": "Neurology"
+    },
+    {
+      "name": "Dr. Zainab Khan",
+      "email": "zainab.khan@gmail.com",
+      "password": "password",
+      "ph": "923551234567",
+      "dob": "1985-06-27",
+      "gender": "Female",
+      "address": {
+        "state": "Sindh",
+        "city": "Hyderabad"
+      },
+      "registration": "PKD20033477",
+      "role": "Doctor",
+      "department": "Neurology"
+    },
+    {
+      "name": "Dr. Ali Raza",
+      "email": "ali.raza@gmail.com",
+      "password": "password",
+      "ph": "923601234567",
+      "dob": "1983-04-14",
+      "gender": "Male",
+      "address": {
+        "state": "Khyber Pakhtunkhwa",
+        "city": "Abbottabad"
+      },
+      "registration": "PKD20033478",
+      "role": "Doctor",
+      "department": "Neurology"
+    },
+    {
+      "name": "Dr. Hina Aziz",
+      "email": "hina.aziz@gmail.com",
+      "password": "password",
+      "ph": "923451234562",
+      "dob": "1980-10-05",
+      "gender": "Female",
+      "address": {
+        "state": "Balochistan",
+        "city": "Gwadar"
+      },
+      "registration": "PKD20033479",
+      "role": "Doctor",
+      "department": "Neurology"
+    },
+    {
+      "name": "Dr. Fahad Mahmood",
+      "email": "fahad.mahmood@gmail.com",
+      "password": "password",
+      "ph": "923751234567",
+      "dob": "1986-07-12",
+      "gender": "Male",
+      "address": {
+        "state": "Punjab",
+        "city": "Faisalabad"
+      },
+      "registration": "PKD20033480",
+      "role": "Doctor",
+      "department": "Neurology"
+    },
+    {
+      "name": "Dr. Samina Ali",
+      "email": "samina.ali@gmail.com",
+      "password": "password",
+      "ph": "923951234567",
+      "dob": "1984-04-30",
+      "gender": "Female",
+      "address": {
+        "state": "Sindh",
+        "city": "Sukkur"
+      },
+      "registration": "PKD20033481",
+      "role": "Doctor",
+      "department": "Neurology"
+    },
+    {
+      "name": "Dr. Bilal Khan",
+      "email": "bilal.khan@gmail.com",
+      "password": "password",
+      "ph": "923801234562",
+      "dob": "1980-11-25",
+      "gender": "Male",
+      "address": {
+        "state": "Khyber Pakhtunkhwa",
+        "city": "Nowshera"
+      },
+      "registration": "PKD20033482",
+      "role": "Doctor",
+      "department": "Neurology"
+    },
+    {
+      "name": "Dr. Aisha Hassan",
+      "email": "aisha.hassan@gmail.com",
+      "password": "password",
+      "ph": "923701235632",
+      "dob": "1983-09-18",
+      "gender": "Female",
+      "address": {
+        "state": "Punjab",
+        "city": "Multan"
+      },
+      "registration": "PKD20033483",
+      "role": "Doctor",
+      "department": "Neurology"
+    },
+    {
+      "name": "Dr. Naveed Malik",
+      "email": "naveed.malik@gmail.com",
+      "password": "password",
+      "ph": "9239012356",
+      "dob": "1979-12-08",
+      "gender": "Male",
+      "address": {
+        "state": "Sindh",
+        "city": "Larkana"
+      },
+      "registration": "PKD20033484",
+      "role": "Doctor",
+      "department": "Neurology"
+    },
+    {
+      "name": "Dr. Zara Ahmed",
+      "email": "zara.ahmed@gmail.com",
+      "password": "password",
+      "ph": "923501234567",
+      "dob": "1988-02-03",
+      "gender": "Female",
+      "address": {
+        "state": "Balochistan",
+        "city": "Khuzdar"
+      },
+      "registration": "PKD20033485",
+      "role": "Doctor",
+      "department": "Neurology"
+    },
+    {
+      "name": "Dr. Saad Mehmood",
+      "email": "saad.mehmood@gmail.com",
+      "password": "password",
+      "ph": "923401234567",
+      "dob": "1981-06-21",
+      "gender": "Male",
+      "address": {
+        "state": "Punjab",
+        "city": "Gujranwala"
+      },
+      "registration": "PKD20033486",
+      "role": "Doctor",
+      "department": "Neurology"
+    },
+    {
+      "name": "Dr. Sara Khan",
+      "email": "sara.khan@gmail.com",
+      "password": "password",
+      "ph": "923201234562",
+      "dob": "1987-10-14",
+      "gender": "Female",
+      "address": {
+        "state": "Khyber Pakhtunkhwa",
+        "city": "Mardan"
+      },
+      "registration": "PKD20033487",
+      "role": "Doctor",
+      "department": "Neurology"
+    },
+    {
+      "name": "Dr. Imran Ali",
+      "email": "imran.ali@gmail.com",
+      "password": "password",
+      "ph": "923601234561",
+      "dob": "1985-03-09",
+      "gender": "Male",
+      "address": {
+        "state": "Punjab",
+        "city": "Sialkot"
+      },
+      "registration": "PKD20033488",
+      "role": "Doctor",
+      "department": "Neurology"
+    },
+    {
+      "name": "Dr. Farah Hassan",
+      "email": "farah.hassan@gmail.com",
+      "password": "password",
+      "ph": "1236542548",
+      "dob": "1982-08-17",
+      "gender": "Female",
+      "address": {
+        "state": "Sindh",
+        "city": "Mirpur Khas"
+      },
+      "registration": "PKD20033489",
+      "role": "Doctor",
+      "department": "Neurology"
+    }
+  ]
+}

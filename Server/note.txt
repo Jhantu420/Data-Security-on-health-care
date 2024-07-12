@@ -1,0 +1,48 @@
+Gyno Completed(Doc, Nurse, patient ) for gyno randomUserId is created like this way 
+ const randomUserId =
+        "custom_" + Math.floor(1000 + Math.random() * 9000) + "_" + ph;
+
+
+
+Cardio - for Cardiology - completed
+const randomUserId ="custom_" + Math.floor(1000 + Math.random() * 9000) 
+
+Hematology - Doctor + Nurse registration completed | Patient is  completed
+
+Nephrology - Doctor + Nurse Complete | Patient is completed
+
+Neurology - Doctor + Nurse Complete |  Patient completeed
+
+Ophthalmology - Doctor + Nurse Complete | Patient is completed
+
+Orthopedic - Doctor + Nurse Complete ed | Patient is not complete
+
+
+
+
+
+server is workung on http://localhost:4000
+DataBase connected Sucessfully  with ac-ekwfwge-shard-00-02.yze3b3g.mongodb.net
+User ID: custom_7574, Doctor ID: custom_1714297159845, Nurse ID: custom_1714297337773
+Super Encrypted Custom ID: 2e71235b2c95540e0b7382322ad097b4082fa4955cc4a54f220ccdfb4ab30701
+Second Encrypted Custom ID: 94ac5e09df8fa8fb639d392d3d662b77358eb5edec1e5404d5afed11c514768235576911c32f73ed163627f5212143f9c75657fb0c4a0ce40b8bbe39c71acdfa
+User ID: custom_3387, Doctor ID: custom_1714297160718, Nurse ID: custom_1714297338696
+Super Encrypted Custom ID: 09fa1fbbbd29a19dcb2ba729d47d91cadc0f5f3529a3513687890d4bbde9b3b6
+Second Encrypted Custom ID: 37b7aaa3d7eaebd6f6d2efc8bd4960e1770add05da3d3d2f131efcbe30be066fb05a34296997e326f0b0f1caf7b7f8e5154a6e411bbfc87cba7ac9e9143f5c91
+User ID: custom_9426, Doctor ID: custom_1714297161611, Nurse ID: custom_1714297339808
+Super Encrypted Custom ID: 6811716e381a4412a85af530c0a882bc1dac9dd1af0bc0c2673495cf0ead7a77
+Second Encrypted Custom ID: 5ea042891be5f882a181a7e95ab0e506b392759bd5a470f7dc59bd264839b3712f69e648e05d837c04ed37288b96537d4a9beec36400a41c0550f3a591c4ffd4
+User ID: custom_9014, Doctor ID: custom_1714297162764, Nurse ID: custom_1714297340730
+Super Encrypted Custom ID: afb1d4a0ee80f13f634c9e14c53a4bc0416c6e9d41ff5f9bbe388f3f22ad6a1a
+Second Encrypted Custom ID: 6b4030dfe4547366cfb42ac34390a06d6627e3f1ec1b3fb585549f80373efe7fea9adb4be855f67abcced69ad78cc73362e0165d82e7c1b59f461290f87e9a30
+User ID: custom_9212, Doctor ID: custom_1714297164186, Nurse ID: custom_1714297341587
+Super Encrypted Custom ID: 48b2411c7c5f2eae49d8e47eaf3bafd4c52a3b03f4a3e059bed3307a6c4ff0e0
+Second Encrypted Custom ID: b7da2da4bbca3963012a747f00e24a345f279c2341422671f4a5522bd77565cacd286f72e2733bc11f2aebcee793912a55512a1bb64cc9ad2ee5a2b8fefc56e2
+
+
+DataBase connected Sucessfully  with ac-ekwfwge-shard-00-00.yze3b3g.mongodb.net
+User ID: custom_1863, Doctor ID: custom_1714297154516, Nurse ID: custom_1714297331396
+User ID: custom_7570, Doctor ID: custom_1714297155548, Nurse ID: custom_1714297332359
+User ID: custom_2275, Doctor ID: custom_1714297157355, Nurse ID: custom_1714297334358
+User ID: custom_7213, Doctor ID: custom_1714297158190, Nurse ID: custom_1714297335385
+User ID: custom_7097, Doctor ID: custom_1714297159012, Nurse ID: custom_1714297336617

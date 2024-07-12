@@ -1,0 +1,304 @@
+{
+  "users": [
+    {
+      "name": "Luisa Hernandez",
+      "email": "luisahernandez@gmail.com",
+      "password": "password",
+      "ph": "6500045678",
+      "dob": "1985-11-30",
+      "gender": "Female",
+      "address": {
+        "state": "Venezuela",
+        "city": "Barquisimeto"
+      },
+      "employeeId": "NeuroNurse004",
+      "role": "Nurse",
+      "department": "Neurology"
+    },
+    {
+      "name": "Javier Castillo",
+      "email": "javiercastillo@gmail.com",
+      "password": "password",
+      "ph": "6500056789",
+      "dob": "1993-07-18",
+      "gender": "Male",
+      "address": {
+        "state": "Venezuela",
+        "city": "Maracay"
+      },
+      "employeeId": "NeuroNurse005",
+      "role": "Nurse",
+      "department": "Neurology"
+    },
+    {
+      "name": "Gabriela Lopez",
+      "email": "gabrielalopez@gmail.com",
+      "password": "password",
+      "ph": "6500067890",
+      "dob": "1989-04-05",
+      "gender": "Female",
+      "address": {
+        "state": "Venezuela",
+        "city": "Ciudad Guayana"
+      },
+      "employeeId": "NeuroNurse006",
+      "role": "Nurse",
+      "department": "Neurology"
+    },
+    {
+      "name": "Pedro Martinez",
+      "email": "pedromartinez@gmail.com",
+      "password": "password",
+      "ph": "6500078901",
+      "dob": "1991-09-22",
+      "gender": "Male",
+      "address": {
+        "state": "Venezuela",
+        "city": "Barcelona"
+      },
+      "employeeId": "NeuroNurse007",
+      "role": "Nurse",
+      "department": "Neurology"
+    },
+    {
+      "name": "Isabella Rodriguez",
+      "email": "isabellarodriguez@gmail.com",
+      "password": "password",
+      "ph": "6500089012",
+      "dob": "1987-12-17",
+      "gender": "Female",
+      "address": {
+        "state": "Venezuela",
+        "city": "Maturín"
+      },
+      "employeeId": "NeuroNurse008",
+      "role": "Nurse",
+      "department": "Neurology"
+    },
+    {
+      "name": "Juan Chavez",
+      "email": "juanchavez@gmail.com",
+      "password": "password",
+      "ph": "6500090123",
+      "dob": "1990-03-08",
+      "gender": "Male",
+      "address": {
+        "state": "Venezuela",
+        "city": "Puerto La Cruz"
+      },
+      "employeeId": "NeuroNurse009",
+      "role": "Nurse",
+      "department": "Neurology"
+    },
+    {
+      "name": "Valentina Perez",
+      "email": "valentinaperez@gmail.com",
+      "password": "password",
+      "ph": "6500101234",
+      "dob": "1986-06-12",
+      "gender": "Female",
+      "address": {
+        "state": "Venezuela",
+        "city": "Los Teques"
+      },
+      "employeeId": "NeuroNurse010",
+      "role": "Nurse",
+      "department": "Neurology"
+    },
+    {
+      "name": "Miguel Torres",
+      "email": "migueltorres@gmail.com",
+      "password": "password",
+      "ph": "6500112345",
+      "dob": "1994-01-27",
+      "gender": "Male",
+      "address": {
+        "state": "Venezuela",
+        "city": "Guarenas"
+      },
+      "employeeId": "NeuroNurse011",
+      "role": "Nurse",
+      "department": "Neurology"
+    },
+    {
+      "name": "Sofia Ramirez",
+      "email": "sofiaramirez@gmail.com",
+      "password": "password",
+      "ph": "6500123456",
+      "dob": "1988-08-03",
+      "gender": "Female",
+      "address": {
+        "state": "Venezuela",
+        "city": "Guacara"
+      },
+      "employeeId": "NeuroNurse012",
+      "role": "Nurse",
+      "department": "Neurology"
+    },
+    {
+      "name": "Alejandro Herrera",
+      "email": "alejandroherrera@gmail.com",
+      "password": "password",
+      "ph": "6500134567",
+      "dob": "1992-05-20",
+      "gender": "Male",
+      "address": {
+        "state": "Venezuela",
+        "city": "Santa Teresa del Tuy"
+      },
+      "employeeId": "NeuroNurse013",
+      "role": "Nurse",
+      "department": "Neurology"
+    },
+    {
+      "name": "Fernanda Diaz",
+      "email": "fernandadiaz@gmail.com",
+      "password": "password",
+      "ph": "6500145678",
+      "dob": "1984-10-14",
+      "gender": "Female",
+      "address": {
+        "state": "Venezuela",
+        "city": "San Fernando de Apure"
+      },
+      "employeeId": "NeuroNurse014",
+      "role": "Nurse",
+      "department": "Neurology"
+    },
+    {
+      "name": "Rafaela Castro",
+      "email": "rafaelacastro@gmail.com",
+      "password": "password",
+      "ph": "6500156789",
+      "dob": "1993-02-28",
+      "gender": "Female",
+      "address": {
+        "state": "Venezuela",
+        "city": "Cumaná"
+      },
+      "employeeId": "NeuroNurse015",
+      "role": "Nurse",
+      "department": "Neurology"
+    },
+    {
+      "name": "Diego Gomez",
+      "email": "diegogomez@gmail.com",
+      "password": "password",
+      "ph": "6500167890",
+      "dob": "1989-07-19",
+      "gender": "Male",
+      "address": {
+        "state": "Venezuela",
+        "city": "Barinitas"
+      },
+      "employeeId": "NeuroNurse016",
+      "role": "Nurse",
+      "department": "Neurology"
+    },
+    {
+      "name": "Juliana Vargas",
+      "email": "julianavargas@gmail.com",
+      "password": "password",
+      "ph": "6500178901",
+      "dob": "1991-04-03",
+      "gender": "Female",
+      "address": {
+        "state": "Venezuela",
+        "city": "Coro"
+      },
+      "employeeId": "NeuroNurse017",
+      "role": "Nurse",
+      "department": "Neurology"
+    },
+    {
+      "name": "Eduardo Suarez",
+      "email": "eduardosuarez@gmail.com",
+      "password": "password",
+      "ph": "6500189012",
+      "dob": "1987-09-11",
+      "gender": "Male",
+      "address": {
+        "state": "Venezuela",
+        "city": "Punto Fijo"
+      },
+      "employeeId": "NeuroNurse018",
+      "role": "Nurse",
+      "department": "Neurology"
+    },
+    {
+      "name": "Valeria Medina",
+      "email": "valeriamedina@gmail.com",
+      "password": "password",
+      "ph": "6500190123",
+      "dob": "1990-06-24",
+      "gender": "Female",
+      "address": {
+        "state": "Venezuela",
+        "city": "Acarigua"
+      },
+      "employeeId": "NeuroNurse019",
+      "role": "Nurse",
+      "department": "Neurology"
+    },
+    {
+      "name": "Ricardo Ortega",
+      "email": "ricardoortega@gmail.com",
+      "password": "password",
+      "ph": "6500201234",
+      "dob": "1986-03-05",
+      "gender": "Male",
+      "address": {
+        "state": "Venezuela",
+        "city": "San Cristóbal"
+      },
+      "employeeId": "NeuroNurse020",
+      "role": "Nurse",
+      "department": "Neurology"
+    },
+    {
+      "name": "Maria Gonzalez",
+      "email": "mariagonzalez123@gmail.com",
+      "password": "password",
+      "ph": "6500012345",
+      "dob": "1990-05-25",
+      "gender": "Female",
+      "address": {
+        "state": "Venezuela",
+        "city": "Caracas"
+      },
+      "employeeId": "NeuroNurse001",
+      "role": "Nurse",
+      "department": "Neurology"
+    },
+    {
+      "name": "Carlos Ramirez",
+      "email": "carlosramirez@gmail.com",
+      "password": "password",
+      "ph": "6500023456",
+      "dob": "1988-08-15",
+      "gender": "Male",
+      "address": {
+        "state": "Venezuela",
+        "city": "Maracaibo"
+      },
+      "employeeId": "NeuroNurse002",
+      "role": "Nurse",
+      "department": "Neurology"
+    },
+    {
+      "name": "Ana Flores",
+      "email": "anaflores@gmail.com",
+      "password": "password",
+      "ph": "6500034567",
+      "dob": "1992-02-10",
+      "gender": "Female",
+      "address": {
+        "state": "Venezuela",
+        "city": "Valencia"
+      },
+      "employeeId": "NeuroNurse003",
+      "role": "Nurse",
+      "department": "Neurology"
+    }
+  ]
+}

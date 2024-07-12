@@ -1,0 +1,304 @@
+{
+  "users": [
+    {
+      "name": "Sunita Lama",
+      "email": "sunita.lama@gmail.com",
+      "password": "password",
+      "ph": "5221234567",
+      "dob": "1990-05-15",
+      "gender": "Female",
+      "address": {
+        "state": "Bagmati",
+        "city": "Kathmandu"
+      },
+      "employeeId": "NepalOphthalNurse001",
+      "role": "Nurse",
+      "department": "Ophthalmology"
+    },
+    {
+      "name": "Rajesh Khanal",
+      "email": "rajesh@gmail.com",
+      "password": "password",
+      "ph": "5236412541",
+      "dob": "1988-09-20",
+      "gender": "Male",
+      "address": {
+        "state": "Gandaki",
+        "city": "Pokhara"
+      },
+      "employeeId": "NepalOphthalNurse002",
+      "role": "Nurse",
+      "department": "Ophthalmology"
+    },
+    {
+      "name": "Sita Thapa",
+      "email": "sita@gmail.com",
+      "password": "password",
+      "ph": "2362512451",
+      "dob": "1992-12-10",
+      "gender": "Female",
+      "address": {
+        "state": "Lumbini",
+        "city": "Bhairahawa"
+      },
+      "employeeId": "NepalOphthalNurse003",
+      "role": "Nurse",
+      "department": "Ophthalmology"
+    },
+    {
+      "name": "Dipesh Magar",
+      "email": "dipesh.magar@gmail.com",
+      "password": "password",
+      "ph": "5224567890",
+      "dob": "1985-04-05",
+      "gender": "Male",
+      "address": {
+        "state": "Sudurpashchim",
+        "city": "Dhangadhi"
+      },
+      "employeeId": "NepalOphthalNurse004",
+      "role": "Nurse",
+      "department": "Ophthalmology"
+    },
+    {
+      "name": "Anita Rai",
+      "email": "anita.rai@gmail.com",
+      "password": "password",
+      "ph": "5225678901",
+      "dob": "1991-07-15",
+      "gender": "Female",
+      "address": {
+        "state": "Karnali",
+        "city": "Surkhet"
+      },
+      "employeeId": "NepalOphthalNurse005",
+      "role": "Nurse",
+      "department": "Ophthalmology"
+    },
+    {
+      "name": "Bikram Thapa",
+      "email": "bikram.thapa@gmail.com",
+      "password": "password",
+      "ph": "5226789012",
+      "dob": "1987-10-08",
+      "gender": "Male",
+      "address": {
+        "state": "Province No. 1",
+        "city": "Biratnagar"
+      },
+      "employeeId": "NepalOphthalNurse006",
+      "role": "Nurse",
+      "department": "Ophthalmology"
+    },
+    {
+      "name": "Manju Tamang",
+      "email": "manju.tamang@gmail.com",
+      "password": "password",
+      "ph": "5227890123",
+      "dob": "1989-03-15",
+      "gender": "Female",
+      "address": {
+        "state": "Kosi",
+        "city": "Itahari"
+      },
+      "employeeId": "NepalOphthalNurse007",
+      "role": "Nurse",
+      "department": "Ophthalmology"
+    },
+    {
+      "name": "Nabin Rai",
+      "email": "nabin@gmail.com",
+      "password": "password",
+      "ph": "5228901234",
+      "dob": "1986-06-25",
+      "gender": "Male",
+      "address": {
+        "state": "Janakpur",
+        "city": "Janakpur"
+      },
+      "employeeId": "NepalOphthalNurse008",
+      "role": "Nurse",
+      "department": "Ophthalmology"
+    },
+    {
+      "name": "Sarita Ghimire",
+      "email": "sarita.ghimire@gmail.com",
+      "password": "password",
+      "ph": "5229012345",
+      "dob": "1990-11-10",
+      "gender": "Female",
+      "address": {
+        "state": "Seti",
+        "city": "Dhangadhi"
+      },
+      "employeeId": "NepalOphthalNurse009",
+      "role": "Nurse",
+      "department": "Ophthalmology"
+    },
+    {
+      "name": "Suman Basnet",
+      "email": "suman.basnet@gmail.com",
+      "password": "password",
+      "ph": "5220123456",
+      "dob": "1988-03-18",
+      "gender": "Male",
+      "address": {
+        "state": "Gandaki",
+        "city": "Lamjung"
+      },
+      "employeeId": "NepalOphthalNurse010",
+      "role": "Nurse",
+      "department": "Ophthalmology"
+    },
+    {
+      "name": "Roshni Bista",
+      "email": "roshni.bista@gmail.com",
+      "password": "password",
+      "ph": "5126325415",
+      "dob": "1992-04-05",
+      "gender": "Female",
+      "address": {
+        "state": "Bagmati",
+        "city": "Bhaktapur"
+      },
+      "employeeId": "NepalOphthalNurse011",
+      "role": "Nurse",
+      "department": "Ophthalmology"
+    },
+    {
+      "name": "Raj Kumar Shrestha",
+      "email": "rajkumar.shrestha@gmail.com",
+      "password": "password",
+      "ph": "5222345678",
+      "dob": "1987-08-20",
+      "gender": "Male",
+      "address": {
+        "state": "Province No. 3",
+        "city": "Dhulikhel"
+      },
+      "employeeId": "NepalOphthalNurse012",
+      "role": "Nurse",
+      "department": "Ophthalmology"
+    },
+    {
+      "name": "Muna Khadka",
+      "email": "muna.khadka@gmail.com",
+      "password": "password",
+      "ph": "5223456789",
+      "dob": "1991-11-10",
+      "gender": "Female",
+      "address": {
+        "state": "Gandaki",
+        "city": "Gorkha"
+      },
+      "employeeId": "NepalOphthalNurse013",
+      "role": "Nurse",
+      "department": "Ophthalmology"
+    },
+    {
+      "name": "Arun Ghale",
+      "email": "arun.ghale@gmail.com",
+      "password": "password",
+      "ph": "5224563698",
+      "dob": "1986-02-15",
+      "gender": "Male",
+      "address": {
+        "state": "Karnali",
+        "city": "Dolpa"
+      },
+      "employeeId": "NepalOphthalNurse014",
+      "role": "Nurse",
+      "department": "Ophthalmology"
+    },
+    {
+      "name": "Gita Gurung",
+      "email": "gita.gurung@gmail.com",
+      "password": "password",
+      "ph": "5623654125",
+      "dob": "1990-05-20",
+      "gender": "Female",
+      "address": {
+        "state": "Bagmati",
+        "city": "Lalitpur"
+      },
+      "employeeId": "NepalOphthalNurse015",
+      "role": "Nurse",
+      "department": "Ophthalmology"
+    },
+    {
+      "name": "Nabin Thapa",
+      "email": "nabin.thapa@gmail.com",
+      "password": "password",
+      "ph": "3265254157",
+      "dob": "1988-08-15",
+      "gender": "Male",
+      "address": {
+        "state": "Lumbini",
+        "city": "Palpa"
+      },
+      "employeeId": "NepalOphthalNurse016",
+      "role": "Nurse",
+      "department": "Ophthalmology"
+    },
+    {
+      "name": "Meera Rana",
+      "email": "meera.rana@gmail.com",
+      "password": "password",
+      "ph": "3265124516",
+      "dob": "1992-01-25",
+      "gender": "Female",
+      "address": {
+        "state": "Sagarmatha",
+        "city": "Sunsari"
+      },
+      "employeeId": "NepalOphthalNurse017",
+      "role": "Nurse",
+      "department": "Ophthalmology"
+    },
+    {
+      "name": "Birat Rai",
+      "email": "birat.rai@gmail.com",
+      "password": "password",
+      "ph": "5228905698",
+      "dob": "1987-04-30",
+      "gender": "Male",
+      "address": {
+        "state": "Kosi",
+        "city": "Biratnagar"
+      },
+      "employeeId": "NepalOphthalNurse018",
+      "role": "Nurse",
+      "department": "Ophthalmology"
+    },
+    {
+      "name": "Anita Thapa",
+      "email": "anita.thapa@gmail.com",
+      "password": "password",
+      "ph": "3626535264",
+      "dob": "1991-09-05",
+      "gender": "Female",
+      "address": {
+        "state": "Janakpur",
+        "city": "Dhanusha"
+      },
+      "employeeId": "NepalOphthalNurse019",
+      "role": "Nurse",
+      "department": "Ophthalmology"
+    },
+    {
+      "name": "Sushil Tamang",
+      "email": "sushil.tamang@gmail.com",
+      "password": "password",
+      "ph": "3625412548",
+      "dob": "1989-12-10",
+      "gender": "Male",
+      "address": {
+        "state": "Bagmati",
+        "city": "Bhaktapur"
+      },
+      "employeeId": "NepalOphthalNurse020",
+      "role": "Nurse",
+      "department": "Ophthalmology"
+    }
+  ]
+}

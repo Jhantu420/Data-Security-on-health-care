@@ -1,0 +1,304 @@
+{
+  "users": [
+    {
+      "name": "Dr. Carlos Rodriguez",
+      "email": "carlos.rodriguez@gmail.com",
+      "password": "password",
+      "ph": "2009876543",
+      "dob": "1985-05-15",
+      "gender": "Male",
+      "address": {
+        "state": "Mexico City",
+        "city": "Mexico City"
+      },
+      "registration": "MXD20033456",
+      "role": "Doctor",
+      "department": "Cardiology"
+    },
+    {
+      "name": "Dr. Maria Garcia",
+      "email": "maria.garcia@gmail.com",
+      "password": "password",
+      "ph": "2009876544",
+      "dob": "1980-09-25",
+      "gender": "Female",
+      "address": {
+        "state": "Mexico City",
+        "city": "Mexico City"
+      },
+      "registration": "MXD20033457",
+      "role": "Doctor",
+      "department": "Cardiology"
+    },
+    {
+      "name": "Dr. Juan Hernandez",
+      "email": "juan.hernandez@gmail.com",
+      "password": "password",
+      "ph": "2009876545",
+      "dob": "1977-12-10",
+      "gender": "Male",
+      "address": {
+        "state": "Mexico City",
+        "city": "Mexico City"
+      },
+      "registration": "MXD20033458",
+      "role": "Doctor",
+      "department": "Cardiology"
+    },
+    {
+      "name": "Dr. Ana Martinez",
+      "email": "ana.martinez@gmail.com",
+      "password": "password",
+      "ph": "2009876546",
+      "dob": "1983-03-18",
+      "gender": "Female",
+      "address": {
+        "state": "Mexico City",
+        "city": "Mexico City"
+      },
+      "registration": "MXD20033459",
+      "role": "Doctor",
+      "department": "Cardiology"
+    },
+    {
+      "name": "Dr. Alejandro Lopez",
+      "email": "alejandro.lopez@gmail.com",
+      "password": "password",
+      "ph": "2009876547",
+      "dob": "1975-08-22",
+      "gender": "Male",
+      "address": {
+        "state": "Mexico City",
+        "city": "Mexico City"
+      },
+      "registration": "MXD20033460",
+      "role": "Doctor",
+      "department": "Cardiology"
+    },
+    {
+      "name": "Dr. Sofia Gonzalez",
+      "email": "sofia.gonzalez@gmail.com",
+      "password": "password",
+      "ph": "2009876548",
+      "dob": "1979-06-30",
+      "gender": "Female",
+      "address": {
+        "state": "Mexico City",
+        "city": "Mexico City"
+      },
+      "registration": "MXD20033461",
+      "role": "Doctor",
+      "department": "Cardiology"
+    },
+    {
+      "name": "Dr. Jorge Perez",
+      "email": "jorge.perez@gmail.com",
+      "password": "password",
+      "ph": "2009876549",
+      "dob": "1982-11-12",
+      "gender": "Male",
+      "address": {
+        "state": "Mexico City",
+        "city": "Mexico City"
+      },
+      "registration": "MXD20033462",
+      "role": "Doctor",
+      "department": "Cardiology"
+    },
+    {
+      "name": "Dr. Lucia Ramirez",
+      "email": "lucia.ramirez@gmail.com",
+      "password": "password",
+      "ph": "2009876550",
+      "dob": "1987-04-28",
+      "gender": "Female",
+      "address": {
+        "state": "Mexico City",
+        "city": "Mexico City"
+      },
+      "registration": "MXD20033463",
+      "role": "Doctor",
+      "department": "Cardiology"
+    },
+    {
+      "name": "Dr. Diego Castro",
+      "email": "diego.castro@gmail.com",
+      "password": "password",
+      "ph": "2009876551",
+      "dob": "1974-02-17",
+      "gender": "Male",
+      "address": {
+        "state": "Mexico City",
+        "city": "Mexico City"
+      },
+      "registration": "MXD20033464",
+      "role": "Doctor",
+      "department": "Cardiology"
+    },
+    {
+      "name": "Dr. Laura Diaz",
+      "email": "laura.diaz@gmail.com",
+      "password": "password",
+      "ph": "2009876552",
+      "dob": "1989-08-08",
+      "gender": "Female",
+      "address": {
+        "state": "Mexico City",
+        "city": "Mexico City"
+      },
+      "registration": "MXD20033465",
+      "role": "Doctor",
+      "department": "Cardiology"
+    },
+    {
+      "name": "Dr. Oscar Morales",
+      "email": "oscar.morales@gmail.com",
+      "password": "password",
+      "ph": "2009876553",
+      "dob": "1976-10-05",
+      "gender": "Male",
+      "address": {
+        "state": "Mexico City",
+        "city": "Mexico City"
+      },
+      "registration": "MXD20033466",
+      "role": "Doctor",
+      "department": "Cardiology"
+    },
+    {
+      "name": "Dr. Andrea Fernandez",
+      "email": "andrea.fernandez@gmail.com",
+      "password": "password",
+      "ph": "2009876554",
+      "dob": "1984-01-20",
+      "gender": "Female",
+      "address": {
+        "state": "Mexico City",
+        "city": "Mexico City"
+      },
+      "registration": "MXD20033467",
+      "role": "Doctor",
+      "department": "Cardiology"
+    },
+    {
+      "name": "Dr. Javier Gomez",
+      "email": "javier.gomez@gmail.com",
+      "password": "password",
+      "ph": "2009876555",
+      "dob": "1981-07-14",
+      "gender": "Male",
+      "address": {
+        "state": "Mexico City",
+        "city": "Mexico City"
+      },
+      "registration": "MXD20033468",
+      "role": "Doctor",
+      "department": "Cardiology"
+    },
+    {
+      "name": "Dr. Gabriel Cruz",
+      "email": "gabriel.cruz@gmail.com",
+      "password": "password",
+      "ph": "5126354125",
+      "dob": "1986-02-14",
+      "gender": "Male",
+      "address": {
+        "state": "Mexico City",
+        "city": "Mexico City"
+      },
+      "registration": "MXD20033469",
+      "role": "Doctor",
+      "department": "Cardiology"
+    },
+    {
+      "name": "Dr. Sofia Lopez",
+      "email": "sofia.lopez@gmail.com",
+      "password": "password",
+      "ph": "2009876556",
+      "dob": "1980-03-25",
+      "gender": "Female",
+      "address": {
+        "state": "Mexico City",
+        "city": "Mexico City"
+      },
+      "registration": "MXD20033470",
+      "role": "Doctor",
+      "department": "Cardiology"
+    },
+    {
+      "name": "Dr. Ricardo Fernandez",
+      "email": "ricardo.fernandez@gmail.com",
+      "password": "password",
+      "ph": "2009876557",
+      "dob": "1977-09-15",
+      "gender": "Male",
+      "address": {
+        "state": "Mexico City",
+        "city": "Mexico City"
+      },
+      "registration": "MXD20033471",
+      "role": "Doctor",
+      "department": "Cardiology"
+    },
+    {
+      "name": "Dr. Elena Ramirez",
+      "email": "elena.ramirez@gmail.com",
+      "password": "password",
+      "ph": "2009876558",
+      "dob": "1982-11-30",
+      "gender": "Female",
+      "address": {
+        "state": "Mexico City",
+        "city": "Mexico City"
+      },
+      "registration": "MXD20033472",
+      "role": "Doctor",
+      "department": "Cardiology"
+    },
+    {
+      "name": "Dr. Hector Martinez",
+      "email": "hector.martinez@gmail.com",
+      "password": "password",
+      "ph": "2009876559",
+      "dob": "1975-07-18",
+      "gender": "Male",
+      "address": {
+        "state": "Mexico City",
+        "city": "Mexico City"
+      },
+      "registration": "MXD20033473",
+      "role": "Doctor",
+      "department": "Cardiology"
+    },
+    {
+      "name": "Dr. Andrea Lopez",
+      "email": "andrea.lopez@gmail.com",
+      "password": "password",
+      "ph": "2009876560",
+      "dob": "1988-04-12",
+      "gender": "Female",
+      "address": {
+        "state": "Mexico City",
+        "city": "Mexico City"
+      },
+      "registration": "MXD20033474",
+      "role": "Doctor",
+      "department": "Cardiology"
+    },
+    {
+      "name": "Dr. Jorge Ramirez",
+      "email": "jorge.ramirez@gmail.com",
+      "password": "password",
+      "ph": "2009876561",
+      "dob": "1979-12-28",
+      "gender": "Male",
+      "address": {
+        "state": "Mexico City",
+        "city": "Mexico City"
+      },
+      "registration": "MXD20033475",
+      "role": "Doctor",
+      "department": "Cardiology"
+    }
+  ]
+}
